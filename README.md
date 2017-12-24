@@ -12,3 +12,8 @@ Some works:
 ```
 
 All incomplete. Several additional comments will be added - some already completed some to be completed.
+
+Rules:
+
+(1) If you don't cite the works above, they are not part of the work in any sense.
+(2) Be maximally proper with respect to language, style, syntax, norms if you contribute to this. It will be reviewed.
