@@ -1,6 +1,6 @@
-academic_papers
+# academic_papers
 
-Some works:
+# Some works:
 ```
 (1) Truth Grounding and the Liar
 (2) Relational Bundles and Eliminative Ontic Strutural Realism
@@ -16,7 +16,7 @@ All incomplete. Several additional comments will be added - some already complet
 
 Old papers might contain erratas.
 
-Rules:
+# Rules:
 ```
 (1) If you don't cite the works above, they are not part of the work in any sense.
 (2) Be maximally proper with respect to language, style, syntax, norms if you contribute to this. It will be reviewed.
