@@ -14,6 +14,8 @@ Some works:
 ```
 All incomplete. Several additional comments will be added - some already completed some to be completed.
 
+Old papers might contain erratas.
+
 Rules:
 ```
 (1) If you don't cite the works above, they are not part of the work in any sense.
