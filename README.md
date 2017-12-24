@@ -8,6 +8,9 @@ Some works:
 (4) Structure Constrained Ontology
 (5) Mathematical Ontology
 (6) On Gödel's Ontological Proof
+(7) Formal Mereology
+(8) Notes on Various Symbolic Systems
+(9) Łukasiewicz’s Proofs
 ```
 All incomplete. Several additional comments will be added - some already completed some to be completed.
 
