@@ -10,3 +10,5 @@ Some works:
 (5) Mathematical Ontology
 (6) On Gödel's Ontological Proof
 ```
+
+All incomplete. Several additional comments will be added - some already completed some to be completed.
