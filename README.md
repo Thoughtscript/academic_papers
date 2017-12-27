@@ -10,13 +10,20 @@ Most of these works are only partly complete and being revised. Typos may exist.
 
 Alethic Paradox:
 ```
-* Truth Grounding and the Liar - a short paper that uniquely identifies the linguistic cause for Alethic Paradox, demonstrates a class of philosophical solutions satisfactory for that,
+* Truth Grounding and the Liar 
+
+	A short paper that uniquely identifies the linguistic cause for Alethic Paradox, demonstrates a class of philosophical solutions satisfactory for that, provides a consistency proof for Kripke-Feferman satisfying the four intuitions about Alethic Paradox as well as the empirical observation that most people never apply T-Schema to the Liar Sentence.
 ```
 
 Relational Bundles:
 ```
-* Relational Bundles and Eliminative Ontic Strutural Realism - a decisive defense
-* Strings, Lines, Loops, Dimensions, Relational Bundles - combining
+* Relational Bundles and Eliminative Ontic Structural Realism 
+
+	A decisive defense of Eliminative Ontic Structural Realism and articulation of a new language for mathematical activity sufficient for Category Theory, Graph Theory, String Theory, and the Ordinals.
+
+* Strings, Lines, Loops, Dimensions, Relational Bundles 
+
+	A paper building off the preceding one in articulating a philosophical defense of Strings and relation-based ontology. Constructions of Space and Time using pointless topologies.
 ```
 
 Gödel's Ontological Proof:
@@ -35,6 +42,15 @@ Mathematical Ontology/Ontological Engineering:
 * Mathematical Ontology
 * Structure Constrained Ontology
 ```
+
+Automated Philosophy:
+```
+* Mathematical Ontology
+* Structure Constrained Ontology
+```
+
+
+
 
 ## Original Handouts and Learning Resources
 
