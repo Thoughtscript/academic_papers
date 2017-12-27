@@ -2,31 +2,50 @@
 
 Academic article repo.
 
-# Some works:
-```
-(1) Truth Grounding and the Liar
-(2) Relational Bundles and Eliminative Ontic Strutural Realism
-(3) Strings, Lines, Loops, Dimensions, Relational Bundles
-(4) Structure Constrained Ontology
-(5) Mathematical Ontology
-(6) On Gödel's Ontological Proof
-(7) Formal Mereology
-(8) Notes on Various Symbolic Systems
-(9) Łukasiewicz’s Proofs
-(10) Writing Sample - Tegmark's Mathematical Universe Hypothesis
-```
-All incomplete. Several additional comments will be added - some already completed some to be completed.
+## Warning
 
-Old papers might contain erratas.
+Most of these works are only partly complete and being revised. Typos may exist. Old papers might contain errors.
 
-# Rules:
+## Original Works
+
+Alethic Paradox:
 ```
-(1) If you don't cite the works above, they are not part of the work in any sense.
-(2) Be maximally proper with respect to language, style, syntax, norms if you contribute to this. It will be reviewed.
-(3) The *original source* is defined thus: https://github.com/Thoughtscript/academic_papers - the *current source* can only ever come from the *original source* by being forked or otherwise copied by the owner of the *original source* (say via a GitLab import from the *original source*).
-(4) Other rules to be added.
+* Truth Grounding and the Liar - a short paper that uniquely identifies the linguistic cause for Alethic Paradox, demonstrates a class of philosophical solutions satisfactory for that,
 ```
-Additional resources:
+
+Relational Bundles:
+```
+* Relational Bundles and Eliminative Ontic Strutural Realism - a decisive defense
+* Strings, Lines, Loops, Dimensions, Relational Bundles - combining
+```
+
+Gödel's Ontological Proof:
+```
+* Comments on Gödel's Ontological Proof -
+* Strings, Lines, Loops, Dimensions, Relational Bundles - combining
+```
+
+Tegmark's Mathematical Universe Hypothesis:
+```
+* Writing Sample - Tegmark's Mathematical Universe Hypothesis
+```
+
+Mathematical Ontology/Ontological Engineering:
+```
+* Mathematical Ontology
+* Structure Constrained Ontology
+```
+
+## Original Handouts and Learning Resources
+
+Formal Language Handouts:
+```
+* Formal Mereology - 
+* Notes on Various Symbolic Systems - 
+* Łukasiewicz’s Proofs - 
+```
+
+# Additional resources:
 
 http://www.postlib.com/tag/phd/
 
