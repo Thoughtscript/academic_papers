@@ -46,7 +46,7 @@ Nietzsche and property definitions for Gödel's Ontological Proof.
 ```
 * Writing Sample
 ```
-I argue against Tegmark's Mathematical Universe Hypothesis by analyzing several major underlying assumptions. Despite strictly rejectin the MUH, I argue that there are major problems with the alternative and that we need to blend these two into a better hierarchy of ontological concepts.
+I argue against Tegmark's Mathematical Universe Hypothesis by analyzing several major underlying assumptions. Despite strictly rejecting the MUH, I argue that there are major problems with the alternative and that we need to blend these two into a better hierarchy of ontological concepts.
 
 **Mathematical Ontology/Ontological Engineering**:
 ```
@@ -56,7 +56,7 @@ Discussion surrounding alternating *constructive* methods with *classical* metho
 ```
 * Structure Constrained Ontology
 ```
-Old paper discussing the relationship of Truth, phenomena, and Models. I argue that there is no symbol grounding - our concepts, language, and lingusitic frameworks are implicitly united. There are only relationships between linguistic modalities.
+Old paper discussing the relationship of Truth, phenomena, and Models. I argue that there is no symbol grounding - our concepts, language, and linguistic frameworks are implicitly united. There are only relationships between linguistic modalities.
 ```
 * An Ontology of Language
 ```
