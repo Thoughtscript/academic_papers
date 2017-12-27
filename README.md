@@ -6,6 +6,24 @@ Academic article repo.
 
 Most of these works are only partly complete and being revised. Typos may exist. Old papers might contain errors.
 
+## Technical Writing 
+
+http://www.baeldung.com/spring-cloud-cli
+
+http://www.baeldung.com/spring-request-response-body
+
+http://www.baeldung.com/ethereumj
+
+http://www.baeldung.com/neuroph
+
+http://www.baeldung.com/spring-security-websockets
+
+http://www.baeldung.com/spring-dispatcherservlet
+
+http://www.baeldung.com/register-servlet
+
+http://www.baeldung.com/jsp
+
 ## Original Works
 
 **Alethic Paradox**:
