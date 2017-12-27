@@ -45,11 +45,11 @@ Discussion surrounding alternating *constructive* methods with *classical* metho
 ```
 * Structure Constrained Ontology
 ```
-Old paper discussing the relationship of Truth, phenomena, and Models. I argue that there is no symbol grounding - our concepts, language, and lingusitic frameworks are implicitly united.
+Old paper discussing the relationship of Truth, phenomena, and Models. I argue that there is no symbol grounding - our concepts, language, and lingusitic frameworks are implicitly united. There are only relationships between linguistic modalities.
 ```
 * An Ontology of Language
 ```
-Ontology is essential to language. Ontology of linguistic items.
+Ontology is essential to language. I present an ontology of linguistic items.
 
 **Automated Philosophy**:
 ```
@@ -71,9 +71,9 @@ I define propositional abstraction and demonstrate its applicability to logic an
 
 Formal Language Handouts:
 ```
-* Formal Mereology - 
-* Notes on Various Symbolic Systems - 
-* Łukasiewicz’s Proofs - 
+* Formal Mereology
+* Notes on Various Symbolic Systems
+* Łukasiewicz’s Proofs
 ```
 
 # Additional resources:
