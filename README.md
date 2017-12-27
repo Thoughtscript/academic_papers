@@ -1,5 +1,7 @@
 # academic_papers
 
+Academic article repo.
+
 # Some works:
 ```
 (1) Truth Grounding and the Liar
@@ -34,7 +36,8 @@ You are required to cite these resources per standard convention.
 
 This material and all contents herein are protected under the Creative Commons NC-ND 3.0 license: https://creativecommons.org/licenses/by-nc-nd/3.0/
 
-```
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Creative Commons
 Attribution-NonCommercial-NoDerivs 3.0 Unported
 
@@ -105,6 +108,3 @@ UNLESS OTHERWISE MUTUALLY AGREED BY THE PARTIES IN WRITING, LICENSOR OFFERS THE 
     Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, Creative Commons does not authorize the use by either party of the trademark "Creative Commons" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons. Any permitted use will be in compliance with Creative Commons' then-current trademark usage guidelines, as may be published on its website or otherwise made available upon request from time to time. For the avoidance of doubt, this trademark restriction does not form part of this License.
 
     Creative Commons may be contacted at https://creativecommons.org/.
-
-« Back to Commons Deed
-```
