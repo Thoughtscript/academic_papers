@@ -32,3 +32,5 @@ Logical relationship that is ultimately determined by S being a conjunction or a
 (*claim*) PQS, the Indicative Conditional, is a conjunction or a biconditional in this case. Here, the assertion is just P and Q or P iff Q!  
 
 Exploring other examples. Need to look deeper into the features and structure of that conditional - biconditionals per: https://projecteuclid.org/download/pdf_1/euclid.ndjfl/1216152549
+
+Perhaps what this represents is that the Material Conditional is wholly inadequate for understanding a wide-range of conditionals... just thinking about this some more...
