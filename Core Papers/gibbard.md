@@ -13,11 +13,13 @@ Here's my reading of S above.
 
 Truth-Table for Indicative Conditional (or at least S above):
 
-PQS
-TTT
-TFF
-FTF
-FFF
+```
+PQS  
+TTT  
+TFF  
+FTF  
+FFF  
+```
 
 (*Observe*) S is true only if P is true and Q is true.
 
