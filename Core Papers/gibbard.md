@@ -29,6 +29,6 @@ Reagon [won] only if the Republucans won the election as observed in the article
 
 Logical relationship that is ultimately determined by S being a conjunction or a biconditional.
 
-(*claim*) PQS, the Indicative Conditional, is a conjunction or a biconditional in this case. Here, the assertion is just P and Q or P iff Q!
+(*claim*) PQS, the Indicative Conditional, is a conjunction or a biconditional in this case. Here, the assertion is just P and Q or P iff Q!  
 
-Exploring other examples.
+Exploring other examples. Need to look deeper into the features and structure of that conditional - biconditionals per: https://projecteuclid.org/download/pdf_1/euclid.ndjfl/1216152549
