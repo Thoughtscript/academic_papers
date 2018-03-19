@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Nothing+You+Could+Do');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
+html, .wrapper {
+    position: absolute;
+    min-width: 100%;
+    padding: 0;
+    min-height: 100%;
+    font-family: 'Poiret One', cursive;
+    font-size: 11px;
+    font-weight: 500;
+}
+
+.header {
+    background-color: teal;
+}
+
+.header > h3 {
+    color: #fff;
+}
+
+.buttonWrapper {
+    position: relative;
+    left: 35%;
+    top: 250px;
+    border: 1px solid gray;
+    box-shadow: 1px 2px 1px 1px gray;
+    border-radius: 3px;
+    max-width: 180px;
+}
+
+p {
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+span, a, h3 {
+    padding-left: 12px;
+    padding-top: 13px;
+}
+
+br {
+    font-size: 1px;
+}
+
+.label {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.uuid {
+    font-size: 12px;
+}
+
+.num {
+
+    font-size: 12px;
+    color: #1daec0;
+}
+
+.retracted {
+    color: #a33922;
+}
+
+.percentWrapper {
+    max-height: 50px;
+}
+
+.percent {
+    font-family: 'Nothing You Could Do', cursive;
+    padding: 15px;
+    border: 3px solid teal;
+    border-radius: 50%;
+    max-height: 65px;
+    max-width: 65px;
+    position: relative;
+    left: 21%;
+    color: teal;
+    font-size:45px;
+    bottom: 58px;
+}
+
+.percent:hover {
+     border: 3px solid #a33922;
+}
+
+a {
+    color: #000;
+    font-size: 12px;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: #a33922;
+}
+
+.underline {
+    min-width: 100%;
+    border-bottom: 1px solid gray;
+}
