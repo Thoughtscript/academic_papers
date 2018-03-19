@@ -1,1 +1,7 @@
 I recommend the positive view now. That this represents the best solution in classical logic. Along with an undergirding theory of truth.
+
+I'm also a logical pluralist in the sense that there are, strictly-speaking, numerous truth-predicates. Each predicate is formally understood through the rules of inference and wider logic in which it is embedded. We are thus able to compare and classify truth-predicates.
+
+The truth-predicate as presented here is the most-classical truth-predicate (henceforth MC-TP). Substructural truth-predicates preserve T-Scheme but lose some of the classical logic (they reject certain rules). In both cases, there are well-defined boundaries that where either all of classical logic ranges or all of the T-Scheme ranges but not both.
+
+David Ripley's super rad and helped me out by raising objections (in philosophy that's a compliment - means that someone thinks there's something worthwhile that needs some work rather than something that's irrelevant or silly) and chatting about this shared area of interest back in grad school. 
