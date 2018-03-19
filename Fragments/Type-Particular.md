@@ -8,7 +8,7 @@ Empirically:
 (1) Sx correlates highly with Px 
 (2) ~All x el S (Px)
 
-Tendencency, particularly during heightened anger to implicitly deny - anger negates the rational constraints on (2).
+Tendency, particularly during heightened anger to implicitly deny - anger negates the rational constraints on (2).
 
 Furthermore, If most Sx are Qx : Px -> Qx.
 
