@@ -100,9 +100,13 @@ https://www.fhi.ox.ac.uk/
 
 https://fqxi.org/
 
+http://mathworld.wolfram.com/
+
 http://nautil.us/
 
 https://plato.stanford.edu/
+
+https://arxiv.org/
 
 # Licensing and Use:
 
