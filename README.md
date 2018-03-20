@@ -92,6 +92,8 @@ Formal Language Handouts:
 
 http://www.postlib.com/tag/phd/
 
+http://badassphilosophers.tumblr.com/
+
 # Licensing and Use:
 
 You are required to cite these resources per standard convention.
