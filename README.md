@@ -88,9 +88,25 @@ Formal Language Handouts:
 * Łukasiewicz’s Proofs
 ```
 
-# Additional resources:
+# Additional Resources and Affiliated Institutions:
 
 http://www.postlib.com/tag/phd/
+
+http://badassphilosophers.tumblr.com/
+
+https://www-csli.stanford.edu/
+
+https://www.fhi.ox.ac.uk/
+
+https://fqxi.org/
+
+http://mathworld.wolfram.com/
+
+http://nautil.us/
+
+https://plato.stanford.edu/
+
+https://arxiv.org/
 
 # Licensing and Use:
 
