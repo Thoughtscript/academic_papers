@@ -4,7 +4,7 @@ Academic article repo.
 
 ## Warning
 
-Most of these works are only partly complete and being revised. Typos may exist. Old papers might contain errors.
+Most of these works are only partly complete and being revised. Preparation for academic publication. Typos may exist. Old papers might contain errors.
 
 ## Technical Writing 
 
