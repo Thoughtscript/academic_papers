@@ -24,7 +24,9 @@ http://www.baeldung.com/jsp
 ```
 * Truth Grounding and the Liar 
 ```
-A short paper that uniquely identifies the linguistic cause for Alethic Paradox, demonstrates a class of philosophical solutions satisfactory for that, provides a consistency proof for Kripke-Feferman satisfying the four intuitions about Alethic Paradox as well as the empirical observation that most people never apply T-Schema to the Liar Sentence.
+A short paper that uniquely identifies the syntactic cause for Alethic Paradox, provides an algorithm to do so, demonstrates a class of philosophical solutions satisfactory for that, provides a consistency proof for Kripke-Feferman satisfying the four intuitions about Alethic Paradox as well as the empirical observation that most people never apply T-Schema to the Liar Sentence.
+
+Additional comments (pending): relationship to sub-structural approaches, solutions that can implement and gain from the formal edifice provided, etc.
 
 **Relational Bundles**:
 ```
@@ -89,7 +91,6 @@ A short paper suggesting a few techniques and remedies to help assuage informati
 * Ockham
 ```
 A short DARPA RFI outlining a general approach to automatically screening Social Science research.
-
 
 ## Original Handouts and Learning Resources
 
