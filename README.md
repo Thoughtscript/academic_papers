@@ -79,6 +79,18 @@ I define a Transactional Logic and demonstrate its practical applications tracki
 ```
 I define propositional abstraction and demonstrate its applicability to logic and linguistics.
 
+**Defense**:
+```
+* Information Warfare Concerns
+```
+A short paper suggesting a few techniques and remedies to help assuage information security woes.
+
+```
+* Ockham
+```
+A short DARPA RFI outlining a general approach to automatically screening Social Science research.
+
+
 ## Original Handouts and Learning Resources
 
 Formal Language Handouts:
