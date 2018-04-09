@@ -53,7 +53,7 @@ Nietzsche and property definitions for Gödel's Ontological Proof.
 ```
 * Hyper Dimensional Logics
 ```
-I explore spatial and dimensional representations of logic extending my analysis to n dimensionals. Along the way we'll investigate questions of symmetry, disputation/argument, and how logics in higher-dimensions may "reach down" and override lower-dimensional arguments.
+I explore spatial and dimensional representations of logic extending my analysis to *n* dimensions. Along the way we'll investigate questions of symmetry, disputation/argument, and how logics in higher-dimensions may "reach down" and override lower-dimensional arguments.
 
 **Tegmark's *Mathematical Universe Hypothesis***:
 ```
