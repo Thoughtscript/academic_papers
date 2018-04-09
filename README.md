@@ -2,6 +2,10 @@
 
 Academic article repo.
 
+Hosted or soon to be: https://codepen.io/thoughtscript/live/qoJjNB 
+
+https://onticbe.herokuapp.com/
+
 ## Warning
 
 Most of these works are only partly complete and being revised. Preparation for academic publication. Typos may exist. Old papers might contain errors.
@@ -44,6 +48,12 @@ A paper building off the preceding one in articulating a philosophical defense o
 * Comments on Gödel's Ontological Proof
 ```
 Nietzsche and property definitions for Gödel's Ontological Proof.
+
+**Hyper Dimensional Logics**:
+```
+* Hyper Dimensional Logics
+```
+I explore spatial and dimensional representations of logic extending my analysis to n dimensionals. Along the way we'll investigate questions of symmetry, disputation/argument, and how logics in higher-dimensions may "reach down" and override lower-dimensional arguments.
 
 **Tegmark's *Mathematical Universe Hypothesis***:
 ```
