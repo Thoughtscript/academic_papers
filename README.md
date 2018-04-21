@@ -10,8 +10,15 @@ https://onticbe.herokuapp.com/
 
 Most of these works are only partly complete and being revised. Preparation for academic publication. Typos may exist. Old papers might contain errors.
 
+## Press
+
+https://www.forbes.com/sites/kimjay/2018/04/04/in-the-future-blockchain-will-solve-most-real-world-problems-even-arbitration/
+
 ## Technical Writing 
 
+https://x-team.com/blog/vue-2-5-router-firebase/
+
+http://www.baeldung.com/spring-boot-cli
 http://www.baeldung.com/opencsv   
 http://www.baeldung.com/spring-cloud-cli   
 http://www.baeldung.com/spring-request-response-body   
