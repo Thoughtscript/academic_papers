@@ -12,7 +12,8 @@ Most of these works are only partly complete and being revised. Preparation for 
 
 ## Press
 
-https://www.forbes.com/sites/kimjay/2018/04/04/in-the-future-blockchain-will-solve-most-real-world-problems-even-arbitration/
+https://www.nytimes.com/2016/02/21/jobs/building-a-better-bidding-war.html  
+https://www.forbes.com/sites/kimjay/2018/04/04/in-the-future-blockchain-will-solve-most-real-world-problems-even-arbitration/  
 
 ## Technical Writing 
 
