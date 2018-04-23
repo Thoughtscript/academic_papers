@@ -19,7 +19,7 @@ https://www.forbes.com/sites/kimjay/2018/04/04/in-the-future-blockchain-will-sol
 
 https://x-team.com/blog/vue-2-5-router-firebase/
 
-http://www.baeldung.com/spring-boot-cli  
+http://www.baeldung.com/introduction-to-spring-boot-cli/ - formerly (http://www.baeldung.com/spring-boot-cli/)  
 http://www.baeldung.com/opencsv   
 http://www.baeldung.com/spring-cloud-cli   
 http://www.baeldung.com/spring-request-response-body   
