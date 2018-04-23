@@ -4,7 +4,7 @@ Academic article repo.
 
 Hosted or soon to be: https://codepen.io/thoughtscript/live/qoJjNB 
 
-https://onticbe.herokuapp.com/
+https://thoughtscriptio.github.io/ontic.be/ | https://onticbe.herokuapp.com/
 
 ## Warning
 
