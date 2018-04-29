@@ -64,6 +64,27 @@ function quadratic(inputArr) {
 Here we pre-generate (AOT) the necessary data into static arrays. Thus, for each subsequent run through the algorithm is constant.
 
 ```javascript
+function generate(len) {
+    var result = [];
+    for (var i = 0; i < len; i++) {
+      var temp = [];
+      for (var j = 0; j < len; j++) {
+        if (i != j) temp.push(j);
+      }
+      result.push(temp);
+    }
+    return result;
+  }
+ 
+  print(generate(4));
+```
+
+This will generate the equivalent:
+```javascript
+  var answerArray = [[1, 2, 3], [0, 2, 3], [0, 1, 3], [0, 1, 2]];
+```
+
+```javascript
 function one(inputArr) {
     var a =
       inputArr[answerArray[0][0]] *
