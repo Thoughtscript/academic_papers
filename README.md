@@ -17,14 +17,16 @@ https://www.forbes.com/sites/kimjay/2018/04/04/in-the-future-blockchain-will-sol
 
 ## Technical Writing 
 
+https://x-team.com/blog/quantum-computation-python-javascript/  
 https://x-team.com/blog/quick-blockchain-erc20/  
 https://x-team.com/blog/rollup-webpack-parcel-comparison/  
 https://x-team.com/blog/node-lambda-express-comparison/  
 https://x-team.com/blog/compare-cxs-jss-performance/  
 https://x-team.com/blog/vue-2-5-router-firebase/  
 
+http://www.baeldung.com/upload-file-servlet  
 http://www.baeldung.com/web3j  
-http://www.baeldung.com/introduction-to-spring-boot-cli/ - formerly (http://www.baeldung.com/spring-boot-cli/)  
+http://www.baeldung.com/spring-boot-cli/  
 http://www.baeldung.com/opencsv   
 http://www.baeldung.com/spring-cloud-cli   
 http://www.baeldung.com/spring-request-response-body   
@@ -126,23 +128,15 @@ Formal Language Handouts:
 
 # Additional Resources and Affiliated Institutions:
 
-http://www.postlib.com/tag/phd/
-
-http://badassphilosophers.tumblr.com/
-
-https://www-csli.stanford.edu/
-
-https://www.fhi.ox.ac.uk/
-
-https://fqxi.org/
-
-http://mathworld.wolfram.com/
-
-http://nautil.us/
-
-https://plato.stanford.edu/
-
-https://arxiv.org/
+http://www.postlib.com/tag/phd/  
+http://badassphilosophers.tumblr.com/  
+https://www-csli.stanford.edu/  
+https://www.fhi.ox.ac.uk/   
+https://fqxi.org/  
+http://mathworld.wolfram.com/  
+http://nautil.us/  
+https://plato.stanford.edu/  
+https://arxiv.org/  
 
 # Licensing and Use:
 
