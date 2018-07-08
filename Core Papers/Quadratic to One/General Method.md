@@ -2,11 +2,11 @@
 
 This short paper outlines a simple *polynomial time reduction* procedure to dramatically reduce time-complexity from quadratic time to constant time for a class of problems.
 
-It is the hope of this author that such a mechanism can be extroplated and generalized outward.
+It is the hope of this author that such a mechanism can be extroplated and generalized in its application to other problems.
 
-# Time Complexity
+# Time Complexity Definitions and Terms
 
-The *complexity* of an algorithm is determined by the following: given some input *n*, the number of times *n* is processed, iterated over, or executed determines the complexity.
+The *complexity* of an algorithm F is determined by the following: given some input *n*, the number of times *n* is processed, iterated over, or executed determines the time complexity of F.
 
 **Linear complexity** - A single loop through *n* gives a complexity of *n*. Two, non-nested, loops through *n* gives rise to *2n*. Such are scenarios of **linear complexity** whereby change in complexity is constant despite increases in input size or number of executions.
 
@@ -31,7 +31,7 @@ See: http://www.uni-forst.gwdg.de/~wkurth/cb/html/cs1_v06.pdf
 
 # Main Aim of This Paper
 
-The main aim of this paper to specify a general procedure, working through examples, and identifying a class of suitable applcations of said procedure to reduce the time complexity from quadratic to one.
+The main aim of this paper (draft) is to specify a general procedure, working through examples, and identifying a class of suitable applcations of said procedure to reduce the time complexity from quadratic to one.
 
 ### Quadratic Time
 
@@ -45,18 +45,21 @@ function print(str) {
 
 ```javascript
 function quadratic(inputArr) {
-    var output_arr = [];
-    for (var i = 0; i < inputArr.length; i++) {
-      var temp = i == 0 ? inputArr[1] : inputArr[0];
-      for (var j = 0; j < inputArr.length; j++)
-        if (i != j) temp = inputArr[j] * temp;
-      output_arr.push(temp);
+  var output_arr = [];
+  for (var i = 0; i < inputArr.length; i++) {
+    var temp = i == 0 ? inputArr[1] : inputArr[0];
+    for (var j = 0; j < inputArr.length; j++) {
+      if (i != j) {
+        temp = inputArr[j] * temp;
+        output_arr.push(temp);
+      }
     }
-    return output_arr;
   }
+  return output_arr;
+}
 
-  print(quadratic([0, 1, 2, 3]));
-  print(quadratic([1, 1, 2, 5]));
+print(quadratic([0, 1, 2, 3]));
+print(quadratic([1, 1, 2, 5]));
 ```
 
 ### Constant Time
@@ -75,7 +78,7 @@ function generate(len) {
     }
     return result;
   }
- 
+
   print(generate(4));
 ```
 
@@ -112,6 +115,11 @@ function one(inputArr) {
 
 ### Formal Properties of the Class
 
+**Conjecture**: Any algorithm characterized by the following two features will give rise to a time complexity reduction scenario like those outlined above:
 
+1. A finite set of input elements.
+2. The existence of some function f uniformly applied to those finite elements.
+
+This should come across as fairly obvious. Scenarios of <a href="https://arxiv.org/pdf/math/9807185.pdf">Autoreducible Reduction</a> are strictly subsets...
 
 # Conclusion
