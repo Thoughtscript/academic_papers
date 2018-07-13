@@ -18,11 +18,11 @@ https://www.d3banking.com/newsroom/news_full/200_financial_institutions_offer_lo
 
 ## Technical Writing 
 
-https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/
-https://x-team.com/blog/writing-as-software-documentation-generation/
-https://x-team.com/blog/alternatives-to-github-including-github/
-https://x-team.com/blog/react-reactor-passwordless-spring/
-https://x-team.com/blog/cms-to-waf-wordpress-and-react/
+https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/  
+https://x-team.com/blog/writing-as-software-documentation-generation/  
+https://x-team.com/blog/alternatives-to-github-including-github/  
+https://x-team.com/blog/react-reactor-passwordless-spring/  
+https://x-team.com/blog/cms-to-waf-wordpress-and-react/  
 https://x-team.com/blog/quantum-computation-python-javascript/  
 https://x-team.com/blog/quick-blockchain-erc20/  
 https://x-team.com/blog/rollup-webpack-parcel-comparison/  
