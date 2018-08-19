@@ -1,6 +1,6 @@
-Description:For “Blockchain Summit” in Seattle on September 24 - 25, 2018. 
+**Description**: *For “Blockchain Summit” in Seattle on September 24 - 25, 2018,* 
 
-Tentatively: "Blockchain for Universal Basic Income: Blockchain and the New Economy"
+**Tentatively**: *"Blockchain for Universal Basic Income: Blockchain and the New Economy"*
 
 A universally supported public blockchain (and supported by loans or grants) could provide robust security improvements, help to reduce income inequality, help to reduce technological hardware inequality, provide moderate passive income, offset public infrastructure costs (like criminal records, driver's licenses, license plates, mailing addresses) in a really transparent way, provide a universal pre-banking option so everyone is connected to improved payment options, and be a massive job creator (hardware, IT, server admin).
 
