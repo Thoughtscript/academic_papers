@@ -20,7 +20,7 @@ Most of these works are only partly complete and being revised. Preparation for 
 ## Technical Writing - X-Team
 
 1. [Procedural Generation and Possible Worlds](https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/)
-2. [Writing As Documentation Generatioin](https://x-team.com/blog/writing-as-software-documentation-generation/)
+2. [Writing As Documentation Generation](https://x-team.com/blog/writing-as-software-documentation-generation/)
 3. [GitHub Alternatives Including GitHub](https://x-team.com/blog/alternatives-to-github-including-github/)
 4. [Passwordless React Reactor](https://x-team.com/blog/react-reactor-passwordless-spring/)
 5. [WordPress WAF](https://x-team.com/blog/cms-to-waf-wordpress-and-react/)
@@ -62,17 +62,27 @@ Additional comments (pending): relationship to sub-structural approaches, soluti
 ```
 * Relational Bundles and Eliminative Ontic Structural Realism 
 ```
-A decisive defense of Eliminative Ontic Structural Realism and articulation of a new language for mathematical activity sufficient for Category Theory, Graph Theory, String Theory, and the Ordinals.
+A decisive defense of Eliminative Ontic Structural Realism and articulation of a new language for mathematical activity sufficient for `Category Theory`, `Graph Theory`, `String Theory`, and the `Ordinals`.
+
+The original paper demonstrates not only the coherence of a philosophical position deemed incoherent but also how it can be distilled into a diagram (a la C.S. Pierce's Existential Graphs or Feynman's Quantum Field Diagrams).
 
 ```
 * Connection Theory
 ```
-An improved formulation of `Relational Bundle Theory` which is sufficient to represent the familiar mathematical objects/entities `Ordinals`, `Sets`, `Lattices`, `Graphs`, and `Categories`. The building blocks are `relations` from which `Mappings` and `Functions` can be derived from.
+An improved formulation of `Relational Bundle Theory` which is sufficient to represent the familiar mathematical objects/entities `Ordinals`, `Sets`, `Lattices`, `Graphs`, and `Categories`. The building blocks are `Relations` from which `Mappings` and `Functions` can be derived from.
+
+This is no mere collection of arrows but an increasingly precise mathematical theory with substantial philosophical underpinnings.
+
+Eventual planar geometric relationships will be explored that will help to further explicate important relationships between sign, content, and meaning (as studied in Semiotics).
 
 ```
 * Strings, Lines, Loops, Dimensions, Relational Bundles 
 ```
 A paper building off the preceding one in articulating a philosophical defense of Strings and relation-based ontology. Constructions of Space and Time using pointless topologies.
+
+It was pointed out to me that many of the original formlations of RBT (above) are relevant to advances in String Theory and to Feynman Diagrams.
+
+Points are notoriously difficult entities that cause major paradoxes and conceptual woes throughout the philosophy of mathematics, physics, geometry, and even within politics (consider the "Pathetic Dot"). Along the way, I will hope to articulate why this alternative metaphor better serves us in math and other areas.
 
 **Gödel's Ontological Proof**:
 ```
@@ -80,11 +90,21 @@ A paper building off the preceding one in articulating a philosophical defense o
 ```
 Nietzsche and property definitions for Gödel's Ontological Proof.
 
+I specify one propety in particular: `supercoming` whereby a *positive* property that were it to not exist, will come to.
+
 **Hyper Dimensional Logics**:
 ```
 * Hyper Dimensional Logics
 ```
 I explore spatial and dimensional representations of logic extending my analysis to *n* dimensions. Along the way we'll investigate questions of symmetry, disputation/argument, and how logics in higher-dimensions may "reach down" and override lower-dimensional arguments.
+
+A many-valued system of logic contains *n-many* truth-values.
+
+An *n-dimensional* logic contains *n-many* truth conditions.
+
+An *hyper-dimensional* logic orders these logics akin to well-understood type theories so that truth-values in higher logics supervene on truth-values of lower ones and vice-versa.  
+
+This has potential applications for security, defense, robotic obedience, and metaphysics.
 
 **Tegmark's *Mathematical Universe Hypothesis***:
 ```
@@ -122,11 +142,25 @@ I define a Transactional Logic and demonstrate its practical applications tracki
 ```
 I define propositional abstraction and demonstrate its applicability to logic and linguistics. Propositional abstraction utilizes `inner semantics` as opposed to the metaphor of semantic webs. Truth-conditions, for formal propositions, can be verified without recourse to external semantical objects like models or structures.
 
-**Defense**:
+**Defense and Law**:
 ```
 * Information Warfare Concerns
 ```
 A short paper suggesting a few techniques and remedies to help assuage information security woes.
+
+```
+* Between Life and Death: Cryogenics and Capital Punishment
+```
+I argue that using cryogenic freezing is strictly more ethical than killing in cases of capital punishment.
+
+If the person to be executed is innocent:
+
+1. They cannot be wrongfully killed, they are merely preserved in a suspended state.
+2. They can be unfrozen.
+
+If the person to be executed is guilty:
+
+1. That person remains suspended permanently.
 
 ```
 * Ockham
