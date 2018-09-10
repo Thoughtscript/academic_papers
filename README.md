@@ -31,6 +31,8 @@ https://x-team.com/blog/node-lambda-express-comparison/
 https://x-team.com/blog/compare-cxs-jss-performance/  
 https://x-team.com/blog/vue-2-5-router-firebase/  
 
+https://www.baeldung.com/spring-websockets-send-message-to-user
+https://www.baeldung.com/spring-mvc-sse-streams
 http://www.baeldung.com/upload-file-servlet  
 http://www.baeldung.com/web3j  
 http://www.baeldung.com/spring-boot-cli/  
@@ -59,6 +61,11 @@ Additional comments (pending): relationship to sub-structural approaches, soluti
 * Relational Bundles and Eliminative Ontic Structural Realism 
 ```
 A decisive defense of Eliminative Ontic Structural Realism and articulation of a new language for mathematical activity sufficient for Category Theory, Graph Theory, String Theory, and the Ordinals.
+
+```
+* Connection Theory
+```
+An improved formulation of `Relational Bundle Theory` which is sufficient to represent the familiar mathematical objects/entities Ordinals, Sets, Lattics, Graphs, Categories. The building blocks are `relations` from which `Mappings` and `Functions` can be derived from.
 
 ```
 * Strings, Lines, Loops, Dimensions, Relational Bundles 
