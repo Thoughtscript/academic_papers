@@ -66,6 +66,8 @@ A decisive defense of Eliminative Ontic Structural Realism and articulation of a
 
 The original paper demonstrates not only the coherence of a philosophical position deemed incoherent but also how it can be distilled into a diagram (à la C.S. Pierce's Existential Graphs or Feynman's Quantum Field Diagrams).
 
+I gesture at what might be the first noun-less proto-language.
+
 ```
 * Connection Theory
 ```
