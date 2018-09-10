@@ -140,7 +140,7 @@ I define a Transactional Logic and demonstrate its practical applications tracki
 ```
 * On Words and Propositions
 ```
-I define propositional abstraction and demonstrate its applicability to logic and linguistics. Propositional abstraction utilizes `inner semantics` as opposed to the metaphor of semantic webs. Truth-conditions, for formal propositions, can be verified without recourse to external semantical objects like models or structures.
+I define propositional abstraction and demonstrate its applicability to logic and linguistics. Propositional abstraction utilizes `inner semantics` as opposed to the metaphor of semantic webs. Truth-conditions, for formal propositions, can be verified without recourse to external semantical objects like models, shifts in conventional meaning, or structures insulating meaning from semantic drift.
 
 **Defense and Law**:
 ```
