@@ -144,15 +144,15 @@ Formal Language Handouts:
 
 # Additional Resources and Affiliated Institutions:
 
-[Postlib](http://www.postlib.com/tag/phd/)
-[Badass Philosophers](http://badassphilosophers.tumblr.com/) 
-[CSLI](https://www-csli.stanford.edu/)
-[Future of Humanity Institute](https://www.fhi.ox.ac.uk/)  
-[FQXI](https://fqxi.org/)  
-[Wolfram Math](http://mathworld.wolfram.com/) 
-[Nautil.us](http://nautil.us/)
-[SEP](https://plato.stanford.edu/)
-[Arxiv](https://arxiv.org/)
+1. [Postlib](http://www.postlib.com/tag/phd/)
+2. [Badass Philosophers](http://badassphilosophers.tumblr.com/) 
+3. [CSLI](https://www-csli.stanford.edu/)
+4. [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)  
+5. [FQXI](https://fqxi.org/)  
+6. [Wolfram Math](http://mathworld.wolfram.com/) 
+7. [Nautil.us](http://nautil.us/)
+8. [SEP](https://plato.stanford.edu/)
+9. [Arxiv](https://arxiv.org/)
 
 # Licensing and Use:
 
