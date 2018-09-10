@@ -64,7 +64,7 @@ Additional comments (pending): relationship to sub-structural approaches, soluti
 ```
 A decisive defense of Eliminative Ontic Structural Realism and articulation of a new language for mathematical activity sufficient for `Category Theory`, `Graph Theory`, `String Theory`, and the `Ordinals`.
 
-The original paper demonstrates not only the coherence of a philosophical position deemed incoherent but also how it can be distilled into a diagram (a la C.S. Pierce's Existential Graphs or Feynman's Quantum Field Diagrams).
+The original paper demonstrates not only the coherence of a philosophical position deemed incoherent but also how it can be distilled into a diagram (à la C.S. Pierce's Existential Graphs or Feynman's Quantum Field Diagrams).
 
 ```
 * Connection Theory
@@ -166,9 +166,9 @@ If the person to be executed is guilty:
 1. That person remains suspended permanently.
 
 ```
-* Ockham
+* Ockham.io
 ```
-A short DARPA RFI outlining a general approach to automatically screening Social Science research.
+A short DARPA RFI outlining a general approach to automatically screening Social Science research using compact algebraic structures to vastly simplify the process of verifying research.
 
 ## Academic Handouts and Learning Resources
 
