@@ -31,8 +31,8 @@ https://x-team.com/blog/node-lambda-express-comparison/
 https://x-team.com/blog/compare-cxs-jss-performance/  
 https://x-team.com/blog/vue-2-5-router-firebase/  
 
-https://www.baeldung.com/spring-websockets-send-message-to-user
-https://www.baeldung.com/spring-mvc-sse-streams
+https://www.baeldung.com/spring-websockets-send-message-to-user  
+https://www.baeldung.com/spring-mvc-sse-streams  
 http://www.baeldung.com/upload-file-servlet  
 http://www.baeldung.com/web3j  
 http://www.baeldung.com/spring-boot-cli/  
