@@ -90,7 +90,13 @@ Points are notoriously difficult entities that cause major paradoxes and concept
 ```
 Nietzsche and property definitions for Gödel's Ontological Proof.
 
-I specify one propety in particular: `supercoming` whereby a *positive* property that were it to not exist, will come to.
+I specify one property in particular: `supercoming` whereby a *positive* property that were it to not exist, will come to.
+
+**Modal Logic Semantics**:
+```
+* Algebraic Objects and Possible World Semantics
+```
+I explore utilizing (mixed) algebraic structures over Kripke frames alone. 
 
 **Hyper Dimensional Logics**:
 ```
