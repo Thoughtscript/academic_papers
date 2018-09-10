@@ -2,9 +2,9 @@
 
 Academic article repo.
 
-Hosted or soon to be: https://codepen.io/thoughtscript/live/qoJjNB 
+Hosted or soon to be: https://codepen.io/thoughtscript/live/qoJjNB (this is not mobile friendly).
 
-https://onticbe.herokuapp.com/
+https://onticbe.herokuapp.com/ (this is mobile friendly).
 
 ## Warning
 
