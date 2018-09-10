@@ -2,9 +2,9 @@
 
 Academic article repo.
 
-Hosted or soon to be: https://codepen.io/thoughtscript/live/qoJjNB (this is not mobile friendly).
+Hosted or soon to be: [Incomplete Mockup](https://codepen.io/thoughtscript/live/qoJjNB) (this is not mobile friendly).
 
-https://onticbe.herokuapp.com/ (this is mobile friendly).
+[Original Ontic.be](https://onticbe.herokuapp.com/) (this is mobile friendly).
 
 ## Warning
 
@@ -12,41 +12,43 @@ Most of these works are only partly complete and being revised. Preparation for 
 
 ## Press
 
-https://www.nytimes.com/2016/02/21/jobs/building-a-better-bidding-war.html  
-https://www.forbes.com/sites/kimjay/2018/04/04/in-the-future-blockchain-will-solve-most-real-world-problems-even-arbitration/  
-https://www.d3banking.com/newsroom/news_full/200_financial_institutions_offer_lodo_softwares_financial_management_servic  
-https://www.wired.com/story/darpa-bs-detector-science/  
+1. [Proxibid](https://www.nytimes.com/2016/02/21/jobs/building-a-better-bidding-war.html)
+2. [Kleros.io](https://www.forbes.com/sites/kimjay/2018/04/04/in-the-future-blockchain-will-solve-most-real-world-problems-even-arbitration/)
+3. [D3 Banking](https://www.d3banking.com/newsroom/news_full/200_financial_institutions_offer_lodo_softwares_financial_management_servic)
+4. [DARPA SCORE](https://www.wired.com/story/darpa-bs-detector-science/)
 
-## Technical Writing 
+## Technical Writing - X-Team
 
-https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/  
-https://x-team.com/blog/writing-as-software-documentation-generation/  
-https://x-team.com/blog/alternatives-to-github-including-github/  
-https://x-team.com/blog/react-reactor-passwordless-spring/  
-https://x-team.com/blog/cms-to-waf-wordpress-and-react/  
-https://x-team.com/blog/quantum-computation-python-javascript/  
-https://x-team.com/blog/quick-blockchain-erc20/  
-https://x-team.com/blog/rollup-webpack-parcel-comparison/  
-https://x-team.com/blog/node-lambda-express-comparison/  
-https://x-team.com/blog/compare-cxs-jss-performance/  
-https://x-team.com/blog/vue-2-5-router-firebase/  
+1. [Procedural Generation and Possible Worlds](https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/)
+2. [Writing As Documentation Generatioin](https://x-team.com/blog/writing-as-software-documentation-generation/)
+3. [GitHub Alternatives Including GitHub](https://x-team.com/blog/alternatives-to-github-including-github/)
+4. [Passwordless React Reactor](https://x-team.com/blog/react-reactor-passwordless-spring/)
+5. [WordPress WAF](https://x-team.com/blog/cms-to-waf-wordpress-and-react/)
+6. [Quantum Computing](https://x-team.com/blog/quantum-computation-python-javascript/)  
+7. [Blockchain ER20](https://x-team.com/blog/quick-blockchain-erc20/)
+8. [Build Tools](https://x-team.com/blog/rollup-webpack-parcel-comparison/)
+9. [Node Lambda](https://x-team.com/blog/node-lambda-express-comparison/)
+10. [CXS JSS Performance](https://x-team.com/blog/compare-cxs-jss-performance/)
+11. [Vue 2.5 Firebase](https://x-team.com/blog/vue-2-5-router-firebase/)
 
-https://www.baeldung.com/spring-websockets-send-message-to-user  
-https://www.baeldung.com/spring-mvc-sse-streams  
-http://www.baeldung.com/upload-file-servlet  
-http://www.baeldung.com/web3j  
-http://www.baeldung.com/spring-boot-cli/  
-http://www.baeldung.com/opencsv   
-http://www.baeldung.com/spring-cloud-cli   
-http://www.baeldung.com/spring-request-response-body   
-http://www.baeldung.com/ethereumj   
-http://www.baeldung.com/neuroph   
-http://www.baeldung.com/spring-security-websockets   
-http://www.baeldung.com/spring-dispatcherservlet   
-http://www.baeldung.com/register-servlet   
-http://www.baeldung.com/jsp  
+## Technical Writing - Baeldung
 
-## Original Works
+1. [Spring Specific Sockets](https://www.baeldung.com/spring-websockets-send-message-to-user)
+2. [Spring MVC SSE](https://www.baeldung.com/spring-mvc-sse-streams)
+3. [Upload File Servlet](http://www.baeldung.com/upload-file-servlet)
+4. [Web3J](http://www.baeldung.com/web3j)
+5. [Spring Boot CLI](http://www.baeldung.com/spring-boot-cli/)
+6. [OpenCSV](http://www.baeldung.com/opencsv)
+7. [Spring Cloud CLI](http://www.baeldung.com/spring-cloud-cli)
+8. [Request Response Body](http://www.baeldung.com/spring-request-response-body)
+9. [EthereumJ](http://www.baeldung.com/ethereumj)
+10. [Neuroph](http://www.baeldung.com/neuroph) 
+11. [Spring Secured Websockets](http://www.baeldung.com/spring-security-websockets)
+12. [Spring Dispatcher](http://www.baeldung.com/spring-dispatcherservlet)
+13. [Servlets](http://www.baeldung.com/register-servlet)
+14. [JSP](http://www.baeldung.com/jsp)
+
+## Academic Works - Articles
 
 **Alethic Paradox**:
 ```
@@ -131,7 +133,7 @@ A short paper suggesting a few techniques and remedies to help assuage informati
 ```
 A short DARPA RFI outlining a general approach to automatically screening Social Science research.
 
-## Original Handouts and Learning Resources
+## Academic Handouts and Learning Resources
 
 Formal Language Handouts:
 ```
@@ -142,15 +144,15 @@ Formal Language Handouts:
 
 # Additional Resources and Affiliated Institutions:
 
-http://www.postlib.com/tag/phd/  
-http://badassphilosophers.tumblr.com/  
-https://www-csli.stanford.edu/  
-https://www.fhi.ox.ac.uk/   
-https://fqxi.org/  
-http://mathworld.wolfram.com/  
-http://nautil.us/  
-https://plato.stanford.edu/  
-https://arxiv.org/  
+[Postlib](http://www.postlib.com/tag/phd/)
+[Badass Philosophers](http://badassphilosophers.tumblr.com/) 
+[CSLI](https://www-csli.stanford.edu/)
+[Future of Humanity Institute](https://www.fhi.ox.ac.uk/)  
+[FQXI](https://fqxi.org/)  
+[Wolfram Math](http://mathworld.wolfram.com/) 
+[Nautil.us](http://nautil.us/)
+[SEP](https://plato.stanford.edu/)
+[Arxiv](https://arxiv.org/)
 
 # Licensing and Use:
 
