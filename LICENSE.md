@@ -1,17 +1,14 @@
-/**
-*
-* This code is covered by the Creative Commercial Attribution-NonCommercial-NoDerivatives 4.0 International License
-* which is supplied in full below.
-*
-* The license can also be found at the follow third-party sites:
-*
-* https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nc-nd.markdown
-* https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
-*
-* An exact copy of this license must be retained with this codebase under any use.
-*
-*/
+```
+This code is covered by the Creative Commercial Attribution-NonCommercial-NoDerivatives 4.0 International License
+which is supplied in full below.
 
+The license can also be found at the follow third-party sites:
+
+https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nc-nd.markdown
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+An exact copy of this license must be retained with this codebase under any use.
+```
 
 ## creative commons
 
