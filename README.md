@@ -92,6 +92,21 @@ Nietzsche and property definitions for Gödel's Ontological Proof.
 
 I specify one property in particular: `supercoming` whereby a *positive* property that were it to not exist, will come to.
 
+**Economics and Finance**:
+```
+* Non-Numeric Currency
+```
+We explore the possibility to do the seemingly impossible. Looking at monetary Transactions through a purely functional lens. No common unit of account is necesary only mereological relations. We will eventually discuss scenarios where this will be highly valuable. 
+
+It will likely be supplementary (just like how a Gift Economies supplement Market Economies).
+
+```
+* Economics of Abudandance - AEDA
+```
+A sketch of the necessary and sufficient conditions to create a self-perpetuating positive-feedback loop tied to a unit of exchange.
+
+This would create systems of continuously improving passive income sufficient to support Basic Income.
+
 **Modal Logic Semantics**:
 ```
 * Algebraic Objects and Possible World Semantics
