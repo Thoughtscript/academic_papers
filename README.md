@@ -65,7 +65,7 @@ A decisive defense of Eliminative Ontic Structural Realism and articulation of a
 ```
 * Connection Theory
 ```
-An improved formulation of `Relational Bundle Theory` which is sufficient to represent the familiar mathematical objects/entities Ordinals, Sets, Lattics, Graphs, Categories. The building blocks are `relations` from which `Mappings` and `Functions` can be derived from.
+An improved formulation of `Relational Bundle Theory` which is sufficient to represent the familiar mathematical objects/entities `Ordinals`, `Sets`, `Lattices`, `Graphs`, and `Categories`. The building blocks are `relations` from which `Mappings` and `Functions` can be derived from.
 
 ```
 * Strings, Lines, Loops, Dimensions, Relational Bundles 
@@ -102,7 +102,7 @@ Old paper discussing the relationship of Truth, phenomena, and Models. I argue t
 ```
 * An Ontology of Language
 ```
-Ontology is essential to language. I present an ontology of linguistic items.
+Traditionally, we've taken the view that ontology is essential to language. I present an ontology of linguistic items that flips this conception on its head.
 
 **Automated Philosophy**:
 ```
@@ -118,7 +118,7 @@ I define a Transactional Logic and demonstrate its practical applications tracki
 ```
 * On Words and Propositions
 ```
-I define propositional abstraction and demonstrate its applicability to logic and linguistics.
+I define propositional abstraction and demonstrate its applicability to logic and linguistics. Propositional abstraction utilizes `inner semantics` as opposed to the metaphor of semantic webs. Truth-conditions, for formal propositions, can be verified without recourse to external semantical objects like models or structures.
 
 **Defense**:
 ```
