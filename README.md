@@ -98,11 +98,9 @@ I specify one propety in particular: `supercoming` whereby a *positive* property
 ```
 I explore spatial and dimensional representations of logic extending my analysis to *n* dimensions. Along the way we'll investigate questions of symmetry, disputation/argument, and how logics in higher-dimensions may "reach down" and override lower-dimensional arguments.
 
-A many-valued system of logic contains *n-many* truth-values.
-
-An *n-dimensional* logic contains *n-many* truth conditions.
-
-An *hyper-dimensional* logic orders these logics akin to well-understood type theories so that truth-values in higher logics supervene on truth-values of lower ones and vice-versa.  
+1. A *many-valued* system of logic contains *n-many* truth-values.
+2. An *n-dimensional* logic contains *n-many* truth conditions.
+3. An *hyper-dimensional* logic orders these logics akin to well-understood type theories so that truth-values in higher logics supervene on truth-values of lower ones and vice-versa.  
 
 This has potential applications for security, defense, robotic obedience, and metaphysics.
 
@@ -117,6 +115,11 @@ I argue against Tegmark's Mathematical Universe Hypothesis by analyzing several 
 * Mathematical Ontology
 ```
 Discussion surrounding alternating *constructive* methods with *classical* methods. Justification, in part, for the Relational Bundle Ontology.
+
+Careful attention will be given to Brading and Landry's observation that mathematical theories typically invoke one of two kinds of "existence" postulates and how these might relate to *constructive* and *classical* methods in foundations.
+
+Lastly, some comments regarding Carnap's Logical Frameworks will be discussed in light of this. There are, in fact, two kinds of mathematical existence employed.
+
 ```
 * Structure Constrained Ontology
 ```
