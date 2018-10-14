@@ -20,8 +20,14 @@ These are assumed but are not necessarily essential to the project. Most of thes
 Traditionally, there are three basic fundamental ontological categories that everything else is one or more of:
 
 1. **Object** / **Thing** / **Entity** / **Individuals** / **Substances** - The reference of a noun word or name. A square, a cat, the paradigmatic philosophical atom of Democritus. A monad in Leibniz's system. The universe. Etc. Individual here usually means "specific item" rather than "person" (though "persons" are usually understood to "individuals" in both senses).
-1. **Property** / **Attribute** / **Characteristic** - a feature of an object. Some people think that objects are just properties or that objects are a special kind of property (*haecceity*) into which other properties "stick into like a pin-cushion".
+1. **Property** / **Attribute** / **Characteristic** / **Universals**- a feature of an object. Some people think that objects are just properties or that objects are a special kind of property (*haecceity*) into which other properties "stick into like a pin-cushion".
 1. **Relationships** / **Relations** - A relationship is something that obtains between two or more objects. A cup rests on a table. Mary is the wife of Tom. 1 + 1 = 2.
+
+Universals (Forms) are "everything" - Plato.
+
+Atoms (Objects) are "everything" - Democritus.
+
+Relationships (which create patterns or structures) are "everything" - Ontic Struturalism. Surprisingly, this is truly a new view in philosophy. As in the history of philosophy. Some precusors. Claims about the incoherence of it really just amount to difficulties getting the idea to conception and clarity (which all the other views had centuries to do) in my opinion.
 
 ## Basic Axioms
 
