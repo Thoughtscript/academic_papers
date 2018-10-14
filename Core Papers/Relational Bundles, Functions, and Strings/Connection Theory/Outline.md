@@ -42,7 +42,7 @@ I've tried to improve the terminology to make it less confusing.
 
 Previously, Relational Bundle Theory lacked the ability to have free-standing **Connectors** as well as **Closed directed** ones (though it could partially model that).
 
-Formally, a **Connector** is a **Connection-less** **Connection**.
+Formally, a **Connector** is a **Connection-less** **Connection**. It has no **Connections** itself though it is a a **Connection**.
 
 **Connections** - Roughly, a relationship (relation). Four varieties.
 
