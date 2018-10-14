@@ -115,7 +115,7 @@ function one(inputArr) {
 
 ### Formal Properties of the Class
 
-**Conjecture**: Any algorithm characterized by the following two features will give rise to a time complexity reduction scenario like those outlined above:
+**Conjecture**: Any algorithm characterized by the following features will give rise to a time complexity reduction scenario like those outlined above:
 
 1. A finite set of input elements.
 1. The existence of some function *f* uniformly applied to those finite elements.
