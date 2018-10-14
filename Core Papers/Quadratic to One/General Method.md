@@ -118,7 +118,9 @@ function one(inputArr) {
 **Conjecture**: Any algorithm characterized by the following two features will give rise to a time complexity reduction scenario like those outlined above:
 
 1. A finite set of input elements.
-2. The existence of some function f uniformly applied to those finite elements.
+1. The existence of some function *f* uniformly applied to those finite elements.
+1. The number of input elements are fixed in size or predictably constrained.
+1. Function *f* applies operations in formally defined loops.
 
 This should come across as fairly obvious. Scenarios of <a href="https://arxiv.org/pdf/math/9807185.pdf">Autoreducible Reduction</a> are strictly subsets...
 
