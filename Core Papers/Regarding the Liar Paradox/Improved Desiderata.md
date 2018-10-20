@@ -11,14 +11,14 @@ Additional Desiderata:
 1. The solution should apply equally well to semantically closed and unclosed languages.
 1. The solution should solve all alethic paradox, including Yablo and Revenge.
 
-
+==============================================================================
 
 1. Classical instability - is classical instability a strike against the theory? 
     * Doesn't it provide mathematical and structural support for the empirical observation that people have diverging views about the liar paradox?
     * Wouldn't a true theory capture that empirical observation?* No other theory set does that.
     * And no small wonder since we're all using classical logic in our metalogic used in these debates.
 1. Analytic - if T-Scheme is indeed analytic (which everyone but most restrictionists believes) then so is the restricted T-Scheme.
-1. Consistency Proof in all models proves analyticity as well.
+1. Consistency Proof and Truth in all models proves analyticity as well.
 1. The restricted T-Scheme debate shifts inquiry to the proper area of focus, which sentences does the T-Scheme apply to (a non-restrictionist says all)?
     * If T-Scheme exists in a language L then so does P -> T-Scheme.
     * This solution piggy-backs any other theory. The moment C is added to a language so this, Truth-Grounding theory emerges in it. See the bullet-point above.
