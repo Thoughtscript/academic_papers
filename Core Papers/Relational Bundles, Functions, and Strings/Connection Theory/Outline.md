@@ -16,12 +16,13 @@ These are assumed but are not necessarily essential to the project. Most of thes
 1. That the language system is mathematical expressive - able to talk about and represent mathematical concepts that present language systems can already talk about.
 1. The primary representational building block is not a word or noun but `relationships between relations`.
 1. To support the project of Ontic Structural Realism in the Philosophy of Science - it's not "everything's interconnected" it's "there are only connections not things" - the world we experience is conveniently structured by the brain but, ultimately, it's just relationships. There's some known difficulties with this view not least of which is that our entire known language is pretty-much noun-focused (object-centric). So, and this is very primal UR shit, we're creating a nounless language really - though the exact ability to translate these into something coherent in say English is, obviously, very difficult.
+1. Interesting new perspectives on identity and equivalence. Nounless or structural identities mean what? Are relations identified as having an intrinsic, free-standing identity, or only in-virtue of the relations in which they stand? Since these two approaches indicate the same relation, are the identity mappings equivalent? What does that mean? That "something" can be greater than itself?
 
 Traditionally, there are three basic fundamental ontological categories that everything else is one or more of:
 
-1. **Object** / **Thing** / **Entity** / **Individuals** / **Substances** - The reference of a noun word or name. A square, a cat, the paradigmatic philosophical atom of Democritus. A monad in Leibniz's system. The universe. Etc. Individual here usually means "specific item" rather than "person" (though "persons" are usually understood to "individuals" in both senses).
-1. **Property** / **Attribute** / **Characteristic** / **Universals**- a feature of an object. Some people think that objects are just properties or that objects are a special kind of property (*haecceity*) into which other properties "stick into like a pin-cushion".
-1. **Relationships** / **Relations** - A relationship is something that obtains between two or more objects. A cup rests on a table. Mary is the wife of Tom. 1 + 1 = 2.
+1. **Object** / **Thing** / **Entity** / **Individuals** / **Substances** - The reference of a noun word or name. A square, a cat, the paradigmatic philosophical atom of Democritus. The person the word "Democritus" (a proper noun) refers to. A monad in Leibniz's system. The universe. Etc. Individual here usually means "specific item" rather than "person" (though "persons" are usually understood to "individuals" in both senses).
+1. **Property** / **Attribute** / **Characteristic** / **Universals**- a feature or attribute of an object. Some people think that objects are just properties or that objects are a special kind of property (*haecceity*) into which other properties "stick into like a pin-cushion".
+1. **Relationships** / **Relations** - A relationship is usually taken to be something that obtains between two or more objects. A cup rests on a table. Mary is the wife of Tom. 1 + 1 = 2.
 
 Universals (Forms) are "everything" - Plato.
 
