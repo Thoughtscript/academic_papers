@@ -1,14 +1,16 @@
 # Academic Papers and Technical Writing
 
-Academic article repo.
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Academic and professional article repo.
 
 Hosted or soon to be: [Incomplete Mockup](https://codepen.io/thoughtscript/live/qoJjNB) (this is not mobile friendly).
 
-[Original Ontic.be](https://onticbe.herokuapp.com/) (this is mobile friendly).
+[Original Ontic.be](https://onticbe.herokuapp.com/) (this is very old and only partly mobile friendly).
 
 ## Warning
 
-Most of these works are only partly complete and being revised. Preparation for academic publication. Typos may exist. Old papers might contain errors.
+Most of these works are only partly complete and are being revised. Many are being prepared for future academic publication. Typos may exist. Old papers might contain errors.
 
 ## Press
 
@@ -17,36 +19,42 @@ Most of these works are only partly complete and being revised. Preparation for 
 3. [D3 Banking](https://www.d3banking.com/newsroom/news_full/200_financial_institutions_offer_lodo_softwares_financial_management_servic)
 4. [DARPA SCORE](https://www.wired.com/story/darpa-bs-detector-science/)
 
+## Technical Writing - Microsoft (Aquent)
+
+1. [Azure Maps](https://docs.microsoft.com/azure/azure-maps/)
+1. [Azure Digital Twins](https://docs.microsoft.com/azure/digital-twins/)
+
 ## Technical Writing - X-Team
 
 1. [Procedural Generation and Possible Worlds](https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/)
-2. [Writing As Documentation Generation](https://x-team.com/blog/writing-as-software-documentation-generation/)
-3. [GitHub Alternatives Including GitHub](https://x-team.com/blog/alternatives-to-github-including-github/)
-4. [Passwordless React Reactor](https://x-team.com/blog/react-reactor-passwordless-spring/)
-5. [WordPress WAF](https://x-team.com/blog/cms-to-waf-wordpress-and-react/)
-6. [Quantum Computing](https://x-team.com/blog/quantum-computation-python-javascript/)  
-7. [Blockchain ER20](https://x-team.com/blog/quick-blockchain-erc20/)
-8. [Build Tools](https://x-team.com/blog/rollup-webpack-parcel-comparison/)
-9. [Node Lambda](https://x-team.com/blog/node-lambda-express-comparison/)
-10. [CXS JSS Performance](https://x-team.com/blog/compare-cxs-jss-performance/)
-11. [Vue 2.5 Firebase](https://x-team.com/blog/vue-2-5-router-firebase/)
+1. [Writing As Documentation Generation](https://x-team.com/blog/writing-as-software-documentation-generation/)
+1. [GitHub Alternatives Including GitHub](https://x-team.com/blog/alternatives-to-github-including-github/)
+1. [Passwordless React Reactor](https://x-team.com/blog/react-reactor-passwordless-spring/)
+1. [WordPress WAF](https://x-team.com/blog/cms-to-waf-wordpress-and-react/)
+1. [Quantum Computing](https://x-team.com/blog/quantum-computation-python-javascript/)  
+1. [Blockchain ER20](https://x-team.com/blog/quick-blockchain-erc20/)
+1. [Build Tools](https://x-team.com/blog/rollup-webpack-parcel-comparison/)
+1. [Node Lambda](https://x-team.com/blog/node-lambda-express-comparison/)
+1. [CXS JSS Performance](https://x-team.com/blog/compare-cxs-jss-performance/)
+1. [Vue 2.5 Firebase](https://x-team.com/blog/vue-2-5-router-firebase/)
 
 ## Technical Writing - Baeldung
 
+1. [Spring Reactive Session](https://www.baeldung.com/spring-session-reactive)
 1. [Spring Specific Sockets](https://www.baeldung.com/spring-websockets-send-message-to-user)
-2. [Spring MVC SSE](https://www.baeldung.com/spring-mvc-sse-streams)
-3. [Upload File Servlet](http://www.baeldung.com/upload-file-servlet)
-4. [Web3J](http://www.baeldung.com/web3j)
-5. [Spring Boot CLI](http://www.baeldung.com/spring-boot-cli/)
-6. [OpenCSV](http://www.baeldung.com/opencsv)
-7. [Spring Cloud CLI](http://www.baeldung.com/spring-cloud-cli)
-8. [Request Response Body](http://www.baeldung.com/spring-request-response-body)
-9. [EthereumJ](http://www.baeldung.com/ethereumj)
-10. [Neuroph](http://www.baeldung.com/neuroph) 
-11. [Spring Secured Websockets](http://www.baeldung.com/spring-security-websockets)
-12. [Spring Dispatcher](http://www.baeldung.com/spring-dispatcherservlet)
-13. [Servlets](http://www.baeldung.com/register-servlet)
-14. [JSP](http://www.baeldung.com/jsp)
+1. [Spring MVC SSE](https://www.baeldung.com/spring-mvc-sse-streams)
+1. [Upload File Servlet](http://www.baeldung.com/upload-file-servlet)
+1. [Web3J](http://www.baeldung.com/web3j)
+1. [Spring Boot CLI](http://www.baeldung.com/spring-boot-cli/)
+1. [OpenCSV](http://www.baeldung.com/opencsv)
+1. [Spring Cloud CLI](http://www.baeldung.com/spring-cloud-cli)
+1. [Request Response Body](http://www.baeldung.com/spring-request-response-body)
+1. [EthereumJ](http://www.baeldung.com/ethereumj)
+1. [Neuroph](http://www.baeldung.com/neuroph) 
+1. [Spring Secured Websockets](http://www.baeldung.com/spring-security-websockets)
+1. [Spring Dispatcher](http://www.baeldung.com/spring-dispatcherservlet)
+1. [Servlets](http://www.baeldung.com/register-servlet)
+1. [JSP](http://www.baeldung.com/jsp)
 
 ## Academic Works - Articles
 
@@ -216,8 +224,6 @@ Formal Language Handouts:
 
 # Licensing and Use:
 
-You are required to cite these resources per standard convention.
+You are required to cite these resources per standard academic convention.
 
-This material and all contents herein are protected under the Creative Commons NC-ND 3.0 license: https://creativecommons.org/licenses/by-nc-nd/3.0/
-
-A copy of this license is included in the root of this repo.
+This material and all contents herein are protected under the [Creative Commons NC-ND 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/).

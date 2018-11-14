@@ -1,30 +1,36 @@
-[
-
-"https://www.baeldung.com/spring-websockets-send-message-to-user",
-"https://www.baeldung.com/spring-mvc-sse-streams",
-"http://www.baeldung.com/upload-file-servlet",
-"http://www.baeldung.com/web3j",
-"http://www.baeldung.com/spring-boot-cli/",
-"http://www.baeldung.com/opencsv",   
-"http://www.baeldung.com/spring-cloud-cli",   
-"http://www.baeldung.com/spring-request-response-body",   
-"http://www.baeldung.com/ethereumj",
-"http://www.baeldung.com/neuroph",
-"http://www.baeldung.com/spring-security-websockets",   
-"http://www.baeldung.com/spring-dispatcherservlet",   
-"http://www.baeldung.com/register-servlet",   
-"http://www.baeldung.com/jsp",
-
-"https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/",
-"https://x-team.com/blog/writing-as-software-documentation-generation/",
-"https://x-team.com/blog/alternatives-to-github-including-github/",
-"https://x-team.com/blog/react-reactor-passwordless-spring/",
-"https://x-team.com/blog/cms-to-waf-wordpress-and-react/",
-"https://x-team.com/blog/quantum-computation-python-javascript/",
-"https://x-team.com/blog/quick-blockchain-erc20/",
-"https://x-team.com/blog/rollup-webpack-parcel-comparison/",
-"https://x-team.com/blog/node-lambda-express-comparison/",
-"https://x-team.com/blog/compare-cxs-jss-performance/",
-"https://x-team.com/blog/vue-2-5-router-firebase/"
-
-]
+{
+    "microsoft": [
+        "https://docs.microsoft.com/azure/digital-twins/",
+        "https://docs.microsoft.com/azure/azure-maps/"
+    ],
+    "baeldung": [
+        "https://www.baeldung.com/spring-session-reactive",
+        "https://www.baeldung.com/spring-websockets-send-message-to-user",
+        "https://www.baeldung.com/spring-mvc-sse-streams",
+        "http://www.baeldung.com/upload-file-servlet",
+        "http://www.baeldung.com/web3j",
+        "http://www.baeldung.com/spring-boot-cli/",
+        "http://www.baeldung.com/opencsv",   
+        "http://www.baeldung.com/spring-cloud-cli",   
+        "http://www.baeldung.com/spring-request-response-body",   
+        "http://www.baeldung.com/ethereumj",
+        "http://www.baeldung.com/neuroph",
+        "http://www.baeldung.com/spring-security-websockets",   
+        "http://www.baeldung.com/spring-dispatcherservlet",   
+        "http://www.baeldung.com/register-servlet",   
+        "http://www.baeldung.com/jsp"
+    ],
+    "x-team": [
+        "https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/",
+        "https://x-team.com/blog/writing-as-software-documentation-generation/",
+        "https://x-team.com/blog/alternatives-to-github-including-github/",
+        "https://x-team.com/blog/react-reactor-passwordless-spring/",
+        "https://x-team.com/blog/cms-to-waf-wordpress-and-react/",
+        "https://x-team.com/blog/quantum-computation-python-javascript/",
+        "https://x-team.com/blog/quick-blockchain-erc20/",
+        "https://x-team.com/blog/rollup-webpack-parcel-comparison/",
+        "https://x-team.com/blog/node-lambda-express-comparison/",
+        "https://x-team.com/blog/compare-cxs-jss-performance/",
+        "https://x-team.com/blog/vue-2-5-router-firebase/"
+    ]
+}
