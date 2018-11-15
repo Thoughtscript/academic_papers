@@ -56,150 +56,88 @@ Most of these works are only partly complete and are being revised. Many are bei
 1. [Servlets](http://www.baeldung.com/register-servlet)
 1. [JSP](http://www.baeldung.com/jsp)
 
-## Academic Works - Articles
+## Academic Works - Table of Contents
 
-**Alethic Paradox**:
-```
-* Truth Grounding and the Liar 
-```
-A short paper that uniquely identifies the syntactic cause for Alethic Paradox, provides an algorithm to do so, demonstrates a class of philosophical solutions satisfactory for that, provides a consistency proof for Kripke-Feferman satisfying the four intuitions about Alethic Paradox as well as the empirical observation that most people never apply T-Schema to the Liar Sentence.
+**Logic and Math**
 
-Additional comments (pending): relationship to sub-structural approaches, solutions that can implement and gain from the formal edifice provided, etc.
+1. [Truth Grounding and the Liar](#tgl)
+1. [Transactional Logic](#tl)
+1. [On Propositions, Words, Meanings](#pwm)
+1. [Symmetries and Possible Worlds Semantics](#spws)
+1. [Hyper Dimensional Logics](#hdl)
+1. [Connection Theory](#ct)
 
-**Relational Bundles**:
-```
-* Relational Bundles and Eliminative Ontic Structural Realism 
-```
-A decisive defense of Eliminative Ontic Structural Realism and articulation of a new language for mathematical activity sufficient for `Category Theory`, `Graph Theory`, `String Theory`, and the `Ordinals`.
+**Computer Science**
 
-The original paper demonstrates not only the coherence of a philosophical position deemed incoherent but also how it can be distilled into a diagram (à la C.S. Pierce's Existential Graphs or Feynman's Quantum Field Diagrams).
+1. [A General Method to Reduce Quadratic Time-Complexity to Constant Time](#agm)
 
-I gesture at what might be the first noun-less proto-language.
+**Philosophy and Physics**
 
-```
-* Connection Theory
-```
-An improved formulation of `Relational Bundle Theory` which is sufficient to represent the familiar mathematical objects/entities `Ordinals`, `Sets`, `Lattices`, `Graphs`, and `Categories`. The building blocks are `Relations` from which `Mappings` and `Functions` can be derived from.
+1. [Relational Bundles and Eliminative Ontic Structural Realism](#rbeosr)
+1. [On Gödel's Ontological Proof](#gp)
+1. [The Ontological Engine](#oe)
+1. [Ontological Linguism](#ol)
+1. [Strings, Lines, Loops, Dimensions, Relational Bundles](#slldrb)
+1. [Structure Constrained Ontology](#sco)
+1. [Whence the Mathematical Universe](#wmuh)
+1. [Mathematical Ontology](#mo)
 
-This is no mere collection of arrows but an increasingly precise mathematical theory with substantial philosophical underpinnings.
+**Law and Defense**
 
-Eventual planar geometric relationships will be explored that will help to further explicate important relationships between sign, content, and meaning (as studied in Semiotics).
+1. [Between Life and Death: Cryonics and Capital Punishment](#ccp)
+1. [Ockham.io](#score)
+1. [Information Warfare Concerns](#iwc)
 
-```
-* Strings, Lines, Loops, Dimensions, Relational Bundles 
-```
-A paper building off the preceding one in articulating a philosophical defense of Strings and relation-based ontology. Constructions of Space and Time using pointless topologies.
+**Economics and Finance**
 
-It was pointed out to me that many of the original formlations of RBT (above) are relevant to advances in String Theory and to Feynman Diagrams.
+1. [Non-numeric Currency Systems](#nnc)
+1. [Economics of Abudance: Systems of Intrinsically Self-Increasing Value](#aeda)
 
-Points are notoriously difficult entities that cause major paradoxes and conceptual woes throughout the philosophy of mathematics, physics, geometry, and even within politics (consider the "Pathetic Dot"). Along the way, I will hope to articulate why this alternative metaphor better serves us in math and other areas.
+## Academic Works - Summaries / Abstracts
 
-**Gödel's Ontological Proof**:
-```
-* Comments on Gödel's Ontological Proof
-```
-Nietzsche and property definitions for Gödel's Ontological Proof.
+- **Mathematical Ontology** <div id="mo"></div> *Philosophy of Mathematics* - Discussion surrounding alternating *constructive* methods with *classical* methods. Justification, in part, for the Relational Bundle Ontology. Careful attention will be given to Brading and Landry's observation that mathematical theories typically invoke one of two kinds of "existence" postulates and how these might relate to *constructive* and *classical* methods in foundations. Lastly, some comments regarding Carnap's Logical Frameworks will be discussed in light of this. There are, in fact, two kinds of mathematical existence employed.
 
-I specify one property in particular: `supercoming` whereby a *positive* property that were it to not exist, will come to.
+- **Whence the Mathematical Universe** <div id="wmuh"></div> *Philosophy of Science* - I argue against Tegmark's Mathematical Universe Hypothesis by analyzing several major underlying assumptions. Despite strictly rejecting the MUH, I argue that there are major problems with the alternative and that we need to blend these two into a better hierarchy of ontological concepts
 
-**Economics and Finance**:
-```
-* Non-Numeric Currency
-```
-We explore the possibility to do the seemingly impossible. Looking at monetary Transactions through a purely functional lens. No common unit of account is necesary only mereological relations. We will eventually discuss scenarios where this will be highly valuable. 
+- **Hyper Dimensional Logic** <div id="hdl"></div> *Experimental Logics* - I explore spatial and dimensional representations of logic extending my analysis to *n* dimensions. Along the way we'll investigate questions of symmetry, disputation/argument, and how logics in higher-dimensions may "reach down" and override lower-dimensional arguments. This has potential applications for security, defense, robotic obedience, and metaphysics:   
 
-It will likely be supplementary (just like how a Gift Economies supplement Market Economies).
+    1. A *many-valued* system of logic contains *n-many* truth-values.
+    1. An *n-dimensional* logic contains *n-many* truth conditions - e.g. {1, 2, 3, 4, ....}.
+    1. An *hyper-dimensional* logic orders these logics akin to well-understood type theories so that truth-values in higher logics supervene on truth-values of lower ones and vice-versa. Many sets of truth-conditions exist - {1, 2, 3, 4, ...}, ...
 
-```
-* Economics of Abudandance - AEDA
-```
-A sketch of the necessary and sufficient conditions to create a self-perpetuating positive-feedback loop tied to a unit of exchange.
+- **A General Method to Reduce Quadratic Time Complexity to Constant Time** <div id="agm"></div> *Computer Science, Time Complexity Reduction* - This short paper outlines a simple *polynomial time reduction* procedure to dramatically reduce time-complexity from quadratic time to constant time for a class of problems.
 
-This would create systems of continuously improving passive income sufficient to support Basic Income.
+- **Symmetries and Possible Worlds Semantics** <div id="spws"></div> *Model Theory, Logic, Modal Logics, Computational Semantics* - I explore utilizing (mixed) algebraic structures over Kripke frames alone. This produces possible worlds of far greater mathematical richness (suitable in fact for limited physical models and interpretation). Symmetries and isomorphism provide robust tools to further characterize the accessibility relation and "closeness" (used by Lewis).
 
-**Modal Logic Semantics**:
-```
-* Algebraic Objects and Possible World Semantics
-```
-I explore utilizing (mixed) algebraic structures over Kripke frames alone. 
+- **Strings, Lines, Loops, Dimensions, Relational Bundles** <div id="slldrb"></div> *Ontology, Metaphysics, Physics* - A paper building off the preceding one in articulating a philosophical defense of Strings (physics) and relation-based ontology. Constructions of Space and Time using pointless topologies. It was pointed out to me that many of the original formlations of Relational Bundle Theory are relevant to advances in String Theory and to Feynman Diagrams. Points are notoriously difficult entities that cause major paradoxes and conceptual woes throughout the philosophy of mathematics, physics, geometry, and even within politics (consider the "Pathetic Dot"). Along the way, I will hope to articulate why this alternative metaphor better serves us in math and other areas.
 
-**Hyper Dimensional Logics**:
-```
-* Hyper Dimensional Logics
-```
-I explore spatial and dimensional representations of logic extending my analysis to *n* dimensions. Along the way we'll investigate questions of symmetry, disputation/argument, and how logics in higher-dimensions may "reach down" and override lower-dimensional arguments.
+- **Economics of Abudance: Systems of Intrinsically Self-Increasing Value** <div id="aeda"></div> *Economics* - A sketch and exploration of the necessary and sufficient conditions to create a self-perpetuating positive-feedback loop tied to a unit of exchange. Would such systems support continuously improving passive income sufficient for Universal Basic Income? Can such systems be employed with minimal human action?
 
-1. A *many-valued* system of logic contains *n-many* truth-values.
-2. An *n-dimensional* logic contains *n-many* truth conditions.
-3. An *hyper-dimensional* logic orders these logics akin to well-understood type theories so that truth-values in higher logics supervene on truth-values of lower ones and vice-versa.  
+- **Information Warfare Concerns** <div id="iwc"></div> *National Security, Cybersecurity* - A short paper suggesting a few techniques and remedies to help assuage information security woes. I define various kinds of information asymmetries, good information, and identify challenges faced when trying to protect a good information enviroment.
 
-This has potential applications for security, defense, robotic obedience, and metaphysics.
+- **Ockham[dot]io** <div id="score"></div> *DARPA, Psychology, Replication Crises, Philosophy of Science* - A short DARPA RFI outlining a general approach to automatically screening Social Science research using compact algebraic structures to vastly simplify the process of verifying research
 
-**Tegmark's *Mathematical Universe Hypothesis***:
-```
-* Writing Sample
-```
-I argue against Tegmark's Mathematical Universe Hypothesis by analyzing several major underlying assumptions. Despite strictly rejecting the MUH, I argue that there are major problems with the alternative and that we need to blend these two into a better hierarchy of ontological concepts.
+- **Between Life and Death: Cryonics and Capital Punishment** <div id="ccp"></div> *Capital Punishment and Ethics* - I argue that using cryogenic freezing (cryonics) is strictly more ethical than killing in cases of capital punishment. If the person to be executed is innocent: (1) They cannot be wrongfully killed, they are merely preserved in a suspended state, (2) They can be unfrozen. If the person to be executed is guilty: (1) That person remains suspended permanently. 
 
-**Mathematical Ontology/Ontological Engineering**:
-```
-* Mathematical Ontology
-```
-Discussion surrounding alternating *constructive* methods with *classical* methods. Justification, in part, for the Relational Bundle Ontology.
+- **Structure Constrained Ontology** <div id="sco"></div> *Philosophy of Language* - Old paper discussing the relationship of Truth, phenomena, and Models. I argue that there is no symbol grounding - our concepts, language, and linguistic frameworks are implicitly united. There are only relationships between linguistic modalities.
 
-Careful attention will be given to Brading and Landry's observation that mathematical theories typically invoke one of two kinds of "existence" postulates and how these might relate to *constructive* and *classical* methods in foundations.
+- **Ontological Linguism** <div id="ol"></div> *Philosophy, Ontology, and Metaphysics* - Traditionally, we've taken the view that ontology is essential to language. I present an ontology of linguistic items that flips this conception on its head. 
 
-Lastly, some comments regarding Carnap's Logical Frameworks will be discussed in light of this. There are, in fact, two kinds of mathematical existence employed.
+- **The Ontological Engine** <div id="oe"></div> *Philosophy, Automated Theory Generation, and Machine Learning* - White paper articulating The Ontological Engine. A system for generating novel philosophy ideas. Used in the creation of new logical innovations (below).
 
-```
-* Structure Constrained Ontology
-```
-Old paper discussing the relationship of Truth, phenomena, and Models. I argue that there is no symbol grounding - our concepts, language, and linguistic frameworks are implicitly united. There are only relationships between linguistic modalities.
-```
-* An Ontology of Language
-```
-Traditionally, we've taken the view that ontology is essential to language. I present an ontology of linguistic items that flips this conception on its head.
+- **On Propositions, Words, Meanings** <div id="pwm"></div> *Philosophy of Language* - I define propositional abstraction and demonstrate its applicability to logic and linguistics. Propositional abstraction utilizes `inner semantics` as opposed to the metaphor of semantic webs. Truth-conditions, for formal propositions, can be verified without recourse to external semantical objects like models, shifts in conventional meaning, or structures insulating meaning from semantic drift.
 
-**Automated Philosophy**:
-```
-* Automated Philosophy
-```
-White paper articulating The Ontological Engine. A system for generating novel philosophy ideas. Used in the creation of new logical innovations (below).
+- **Transactional Logic** <div id="tl"></div> *Experimental Logics* - I define a Transactional Logic and demonstrate its practical applications tracking truth between different non-modal logics, use for identifying blackboxed AI.
 
-**Logical Innovations**:
-```
-* Transactional Logic
-```
-I define a Transactional Logic and demonstrate its practical applications tracking truth between different non-modal logics, use for identifying blackboxed AI.
-```
-* On Words and Propositions
-```
-I define propositional abstraction and demonstrate its applicability to logic and linguistics. Propositional abstraction utilizes `inner semantics` as opposed to the metaphor of semantic webs. Truth-conditions, for formal propositions, can be verified without recourse to external semantical objects like models, shifts in conventional meaning, or structures insulating meaning from semantic drift.
+- **Non-numeric Currency Systems** <div id="nnc"></div> *Economics and Finance* - I explore the possibility of looking at money systems, money accounting, and monetary Transactions through a purely functional lens. No common unit of account is necesary, only mereological relations. I will discuss scenarios where this will be highly valuable and how it can be used in a highly supplementary way (in a manner similar to the way that Gift Economies supplement Market Economies).
 
-**Defense and Law**:
-```
-* Information Warfare Concerns
-```
-A short paper suggesting a few techniques and remedies to help assuage information security woes.
+- **Truth Grounding and the Liar** <div id="tgl"></div> *Alethic Paradox* - A short paper that uniquely identifies the syntactic cause for Alethic Paradox, provides an algorithm to do so, demonstrates a class of philosophical solutions satisfactory for that, provides a consistency proof for Kripke-Feferman satisfying the four intuitions about Alethic Paradox as well as the empirical observation that most people never apply T-Schema to the Liar Sentence. Additional comments (pending): relationship to sub-structural approaches, solutions that can implement and gain from the formal edifice provided, etc.
 
-```
-* Between Life and Death: Cryogenics and Capital Punishment
-```
-I argue that using cryogenic freezing is strictly more ethical than killing in cases of capital punishment.
+- **Connection Theory** <div id="ct"></div> *Experimental math systems* - An improved formulation of `Relational Bundle Theory` which is sufficient to represent the familiar mathematical objects/entities `Ordinals`, `Sets`, `Lattices`, `Graphs`, and `Categories`. The building blocks are `Relations` from which `Mappings` and `Functions` can be derived from. Eventual planar geometric relationships will be explored that will help to further explicate important relationships between sign, content, and meaning (as studied in Semiotics).
 
-If the person to be executed is innocent:
+- **Relational Bundles and Eliminative Ontic Structural Realism** <div id="rbeosr"></div> *Philosophy of Science* - A decisive defense of Eliminative Ontic Structural Realism and articulation of a new language for mathematical activity sufficient for `Category Theory`, `Graph Theory`, `String Theory`, and the `Ordinals`. The original paper demonstrates not only the coherence of a philosophical position deemed incoherent but also how it can be distilled into a diagram (à la C.S. Pierce's Existential Graphs or Feynman's Quantum Field Diagrams). I gesture at what might be the first noun-less proto-language. 
 
-1. They cannot be wrongfully killed, they are merely preserved in a suspended state.
-2. They can be unfrozen.
-
-If the person to be executed is guilty:
-
-1. That person remains suspended permanently.
-
-```
-* Ockham.io
-```
-A short DARPA RFI outlining a general approach to automatically screening Social Science research using compact algebraic structures to vastly simplify the process of verifying research.
+- **On Gödel's Ontological Proof** <div id="gp"></div> *Theology and Ontology* - I discuss theism, indeterminate singular referance,  Nietzsche, and property definitions for Gödel's Ontological Proof. I specify one property in particular: `supercoming` whereby a *positive* property that were it to not exist, will come to. I argue that the answer to Nietzsche is to create a higher being in the absence of real God or Diety (reserving acknowledgement for there actually being a Highest being).
 
 ## Academic Handouts and Learning Resources
 
