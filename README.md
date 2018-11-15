@@ -155,14 +155,15 @@ Formal Language Handouts:
 # Additional Resources and Affiliated Institutions:
 
 1. [Postlib](http://www.postlib.com/tag/phd/)
-2. [Badass Philosophers](http://badassphilosophers.tumblr.com/) 
-3. [CSLI](https://www-csli.stanford.edu/)
-4. [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)  
-5. [FQXI](https://fqxi.org/)  
-6. [Wolfram Math](http://mathworld.wolfram.com/) 
-7. [Nautil.us](http://nautil.us/)
-8. [SEP](https://plato.stanford.edu/)
-9. [Arxiv](https://arxiv.org/)
+1. [My Quora](https://www.quora.com/profile/Adam-Gerard-5)
+1. [Badass Philosophers](http://badassphilosophers.tumblr.com/) 
+1. [CSLI](https://www-csli.stanford.edu/)
+1. [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)  
+1. [FQXI](https://fqxi.org/)  
+1. [Wolfram Math](http://mathworld.wolfram.com/) 
+1. [Nautil.us](http://nautil.us/)
+1. [SEP](https://plato.stanford.edu/)
+1. [Arxiv](https://arxiv.org/)
 
 # Licensing and Use:
 
