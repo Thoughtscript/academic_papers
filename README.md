@@ -66,6 +66,7 @@ Most of these works are only partly complete and are being revised. Many are bei
 1. [Symmetries and Possible Worlds Semantics](#spws)
 1. [Hyper Dimensional Logics](#hdl)
 1. [Connection Theory](#ct)
+1. [Propositional Stability](#ps)
 
 **Computer Science**
 
@@ -94,6 +95,8 @@ Most of these works are only partly complete and are being revised. Many are bei
 1. [Economics of Abudance: Systems of Intrinsically Self-Increasing Value](#aeda)
 
 ## Academic Works - Summaries / Abstracts
+
+- **Propositional Stability** <div id="ps"></div> *Experimental Logics* - This short article adumbrates a new and useful notion relevant to so-called combined modal logics, Markov Logic Networks, and Transactional Logic (forthcoming). Specifically, we seek to define and identify the conditions under which truth-values remain stable when interacted with by more than one logic.
 
 - **Mathematical Ontology** <div id="mo"></div> *Philosophy of Mathematics* - Discussion surrounding alternating *constructive* methods with *classical* methods. Justification, in part, for the Relational Bundle Ontology. Careful attention will be given to Brading and Landry's observation that mathematical theories typically invoke one of two kinds of "existence" postulates and how these might relate to *constructive* and *classical* methods in foundations. Lastly, some comments regarding Carnap's Logical Frameworks will be discussed in light of this. There are, in fact, two kinds of mathematical existence employed.
 
@@ -133,7 +136,7 @@ Most of these works are only partly complete and are being revised. Many are bei
 
 - **Truth Grounding and the Liar** <div id="tgl"></div> *Alethic Paradox* - A short paper that uniquely identifies the syntactic cause for Alethic Paradox, provides an algorithm to do so, demonstrates a class of philosophical solutions satisfactory for that, provides a consistency proof for Kripke-Feferman satisfying the four intuitions about Alethic Paradox as well as the empirical observation that most people never apply T-Schema to the Liar Sentence. Additional comments (pending): relationship to sub-structural approaches, solutions that can implement and gain from the formal edifice provided, etc.
 
-- **Connection Theory** <div id="ct"></div> *Experimental math systems* - An improved formulation of `Relational Bundle Theory` which is sufficient to represent the familiar mathematical objects/entities `Ordinals`, `Sets`, `Lattices`, `Graphs`, and `Categories`. The building blocks are `Relations` from which `Mappings` and `Functions` can be derived from. Eventual planar geometric relationships will be explored that will help to further explicate important relationships between sign, content, and meaning (as studied in Semiotics).
+- **Connection Theory** <div id="ct"></div> *Experimental Math* - An improved formulation of `Relational Bundle Theory` which is sufficient to represent the familiar mathematical objects/entities `Ordinals`, `Sets`, `Lattices`, `Graphs`, and `Categories`. The building blocks are `Relations` from which `Mappings` and `Functions` can be derived from. Eventual planar geometric relationships will be explored that will help to further explicate important relationships between sign, content, and meaning (as studied in Semiotics).
 
 - **Relational Bundles and Eliminative Ontic Structural Realism** <div id="rbeosr"></div> *Philosophy of Science* - A decisive defense of Eliminative Ontic Structural Realism and articulation of a new language for mathematical activity sufficient for `Category Theory`, `Graph Theory`, `String Theory`, and the `Ordinals`. The original paper demonstrates not only the coherence of a philosophical position deemed incoherent but also how it can be distilled into a diagram (à la C.S. Pierce's Existential Graphs or Feynman's Quantum Field Diagrams). I gesture at what might be the first noun-less proto-language. 
 
@@ -146,6 +149,7 @@ Formal Language Handouts:
 * Formal Mereology
 * Notes on Various Symbolic Systems
 * Łukasiewicz’s Proofs
+* ZQL Notes
 ```
 
 # Additional Resources and Affiliated Institutions:
