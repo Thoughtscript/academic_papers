@@ -6,7 +6,7 @@ Updated: 11.18.2018
 
 1. There is an awful tendency to bow to our worst cognitive biases. "Black-White" thinking (logics of duality or binary logics), monistic reduction (oversimplification of all things to a singular causes), etc.
 1. We are therefore quick to reduce philosophy to a singular method (and is not philosophy littered with such approaches)? Divine revelation, exultation of reason, and so on.
-1. We forget that philosophy serves many purposes, has many stakeholders, and so on. Philosophical systems produce ideologies that justify certain political arrangements (A Theory of Justice, Das Kapital, The Wealth of Nations, Leviathan, etc.), inspire alternative methods of inquiry (empirical science versus the tenants of Catholicisim).
+1. We forget that philosophy serves many purposes, has many stakeholders, and so on. Philosophical systems produce ideologies that justify certain political arrangements (A Theory of Justice, Das Kapital, The Wealth of Nations, Leviathan, etc.), inspire alternative methods of inquiry (empirical science versus the tenants of 15th and 16th century Catholicism).
 1. We also forget the military and religious aspects of philosophy.
 1. Philosophy is also a generic human activity performed according to varying customs and norms, an academic tradition, an intellectual movement, a way of living, training of the mind for other applied tasks, and so on.
 
@@ -38,11 +38,11 @@ Updated: 11.18.2018
 
 1. Most of philosophy's heavy-lifting comes through metaphors or "pictures" that are then formalized, codified into a system.
 1. One is the Tree of Knowledge where philosophy represented an alternative to the dogma of a State religion and blind adherence to a despot. The metaphor also specifies the historical evolution of human knowledge - from philosophy came all other disciplines:
-    a. Tarski - Model Theory.
-    b. Wittgenstein, Pierce, Frege - Modern Logic.
-    c. Russell, Cantor, Whitehead - Modern mathematics through ZFC Set Theory.
-    d. Chompsky - Generative Grammar - Linguistics.
-    e. etc. (I've written about this more extensively elsewhere)
+    * Tarski - Model Theory.  
+    * Wittgenstein, Pierce, Frege - Modern Logic.
+    * Russell, Cantor, Whitehead - Modern mathematics through ZFC Set Theory.
+    * Chompsky - Generative Grammar - Linguistics.
+    * etc. (I've written about this more extensively elsewhere)
 1. Perhaps ironically, mathematics is the study of just such structures. Though mathematics to some extent spawned from philosophy, why shouldn't philosophies disciples, children, and saplings come back to rejuvenate philosophical reflection? 
 1. Outward? No. To come full circle and then outward again. And so on.
 1. Such metaphors are probably essential to more useful, good, and better philosophy. The metaphors are not trivial.
@@ -51,7 +51,7 @@ Updated: 11.18.2018
 
 1. Human philosophy is confined by the biological limits of our thinking. This impacts our pictures, metaphors, and language.
 1. Much effort and struggle has been made about the limits of mind and world. Reframing this as a 1st versus 3rd person perspective cleans up a lot more. Our 1st person perspective is a subset of totality - are there still great mysteries here (from an epistemic standpoint)? 
-1. The picture is not two circles one representing the mind, the other world. Rather one contains the other.
+1. The picture is not two circles one representing the mind, the other world. Rather one contains the other. I prefer thinking of a sphere in 3-Space (for convenience a cube)- the sphere representing the sum totality of our aggregate sensory systems, the cube in which it is contained - objective reality. This is itself *only* a metaphor.
 
 ## Future of Philosophy
 
