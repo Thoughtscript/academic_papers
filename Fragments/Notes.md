@@ -1,6 +1,6 @@
 1. I lean toward the view that mathematics and traditional ontology are one in the same. To my knowledge this is either a new or rarely held position. Badiou and Pythagoras along with Tegmark have asserted kinda similar views about physical reality and math - or about the importance or primacy of math.
 
-2. I like Virtue Ethics - it’s first among equals w.r.t. to Consequentialism and Deontology. All matter but Virtue Ethics matters most. In general, if an action is conpliant with all three we are very safe in saying an action is moral. If it fails all three it is clearly immoral. If it satisfies only some but not all it’s dubious and should be undertaken only over its less moral options.
+2. I like Virtue Ethics - it’s first among equals w.r.t. to Consequentialism and Deontology. All matter but Virtue Ethics matters most. In general, if an action is compliant with all three we are very safe in saying an action is moral. If it fails all three it is clearly immoral. If it satisfies only some but not all it’s dubious and should be undertaken only over its less moral options.
 
 3. I am a logical pluralist. The view that there is no one “True” logic that governs reality. However, there are implicit logics at play - general patterns of inference that can be systematized - for each human activity including scientific discovery.
 

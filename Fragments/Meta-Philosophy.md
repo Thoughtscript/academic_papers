@@ -9,6 +9,7 @@ Updated: 11.18.2018
 1. We forget that philosophy serves many purposes, has many stakeholders, and so on. Philosophical systems produce ideologies that justify certain political arrangements (A Theory of Justice, Das Kapital, The Wealth of Nations, Leviathan, etc.), inspire alternative methods of inquiry (empirical science versus the tenants of 15th and 16th century Catholicism).
 1. We also forget the military and religious aspects of philosophy.
 1. Philosophy is also a generic human activity performed according to varying customs and norms, an academic tradition, an intellectual movement, a way of living, training of the mind for other applied tasks, and so on.
+1. Many of the most important contributions of philosophy are not what was written, but said. And, not what was uttered, but what is implicitly understood in silence. And, not what was said or written, but done.
 
 ## The Utility of Philosophy
 
