@@ -7,3 +7,5 @@
 **All together:**
 
 "We usually underestimate both (a) the time and cost required to bring a technology or innovation about and (b) the eventual impact, power, or effect of that technology or innovation when it is finally achieved."
+
+(Originally posted on [Postlib](https://www.postlib.com/comments-on-inference-data/))
