@@ -30,6 +30,6 @@ I will depict through several axioms a few kinds of thinking (techniques) that w
 
 ## Comments
 
-* Every stream starts with a single symbol of thought: `>
+* Every stream starts with a single symbol of thought: `>`
 * Each of the axioms above have a dual opposite (except for **Identity** and **Replacement**). Symmetries. Thinking proceeds through distinction (difference) or symmetry breaking (see Logic of Distinction).
 
