@@ -21,6 +21,16 @@ FTF
 FFF  
 ```
 
+or 
+
+```
+PQS  
+TTT  
+TFF  
+FTF  
+FFT
+```
+
 (*Observe*) S is true only if P is true and Q is true.
 
 Reagon [won] only if the Republucans won the election as observed in the article above.
