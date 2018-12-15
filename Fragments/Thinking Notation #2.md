@@ -33,4 +33,4 @@ Job creating:
 1. Broadens the user base of languages.
 1. Creates a new layer between **linguistic frontends** and **linguistic backends** that can process images, pictures, colors, sounds, whatever, etc.
 
-See: Piet programming.
+See: [Piet programming](http://www.dangermouse.net/esoteric/piet.html).
