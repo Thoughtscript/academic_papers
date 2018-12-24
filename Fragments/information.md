@@ -2,9 +2,9 @@
 
 A useful metaphor:
 
-*. Levels - lower to higher.
-*. Layers - not a pyramid but an onion.
-*. Wrapping - when one layer overlays another.
+* Levels - lower to higher.  
+* Layers - not a pyramid but an onion.  
+* Wrapping - when one layer overlays another.  
 
 ## Some basic categories of value:
 
