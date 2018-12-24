@@ -2,9 +2,9 @@
 
 A useful metaphor:
 
-* Levels - lower to higher.  
-* Layers - not a pyramid but an onion.  
-* Wrapping - when one layer overlays another.  
+*. Levels - lower to higher.
+*. Layers - not a pyramid but an onion.
+*. Wrapping - when one layer overlays another.
 
 ## Some basic categories of value:
 
@@ -39,4 +39,8 @@ Consider Semantic Reductionism:
 
 Argument against Semantic Reductionism is that P is *multiply realizable*. I agree.
 
-But, that also means that P is not just Q, R (that would be the *conjunction* and not the *disjunction*), hence P has more semantic content than just Q, R alone.
+In other words, that means that P is not just Q and R (that would be the *conjunction*):
+
+* ~(P <--> Q & R)
+
+But, that also means that P has more semantic content than just Q, R alone. It's a *disjunction*. Thus, there's more to P than just Q, R.
