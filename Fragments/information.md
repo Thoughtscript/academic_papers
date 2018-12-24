@@ -1,6 +1,12 @@
 # Producing Value in Information Intensive Societies
 
-Some basic categories of value:
+A useful metaphor:
+
+*. Levels - lower to higher.
+*. Layers - not a pyramid but an onion.
+*. Wrapping - when one layer overlays another.
+
+## Some basic categories of value:
 
 1. *Better information* - more recent, more comprehensive, more precise, more accurate, etc.
 1. *Dependent integrated information* - the information is valuable only insofar as some integrated operation or service is also acquired. The service or operation is valuable in its own right. The service or operation cannot be used without the information.
@@ -9,10 +15,10 @@ Some basic categories of value:
 1. *Credentialization* - a required normative component that certifies someone as a knowledge expert.
 1. *Good information* - see other document.
 1. *Dialectical information* - information in one of the other categories here that by its nature produces more information. Rhetoric, argumentation, etc. where there's at least one clear "winner" or "loser".
-1. *Organizational information* - information that organizes other kinds of information.
-1. *Frameworks* - systems of coordinated and coordinating information markers. Using these frameworks produce specific kinds of information as an output.
+1. *Organizational information* - information that organizes other kinds of information. Often with a taxonomic or normative side (permission granting information). Consider the Agile methodology, organizational philosophies, Kaizen, process engineering, biological classification, library account systems for asset tagging, etc.
+1. *Frameworks* - systems of coordinated and coordinating information markers. Using these frameworks produce specific kinds of information as an output - true propositions in axiomatic logic, etc.
 
-Meta-value:
+## Meta-value:
 
 Meta-information is not merely duplication of some information at a "lower level". It can produce novel insights. Meta-information, for example, can frame lower-order information in an entirely new way. Thus, information that's valuable on its own, gets repackaged, reanalyzed, reassesed in novel ways through higher-level informational structures.
 
@@ -24,3 +30,13 @@ I can use the third, higher-level meta-information (meta-linguistic) understandi
 
 The third expression is created from multiple lower-level expressions that come together to produce an additive system - greater than the inputted information.
 
+## Argument
+
+Consider Semantic Reductionism:
+
+1. Top-level Predicate P.
+1. Lower-level Predicates Q, R that are sufficient for P but not necessary for it.
+
+Argument against Semantic Reductionism is that P is *multiply realizable*. I agree.
+
+But, that also means that P is not just Q, R (that would be the *conjunction* and not the *disjunction*), hence P has more semantic content than just Q, R alone.
