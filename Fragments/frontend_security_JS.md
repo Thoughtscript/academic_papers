@@ -20,7 +20,7 @@
        1. Start with three strings: **password**, a **fixed symbol**, and a **timestamp**. 
        1. Concatenate these into one string and apply a SALT, then an encryption method.
        1. Decrypt the string by applying the decryption method (the "reverse" of the encryption method), then breaking the string into its original three parts.
-       1. You can use an intermediate server to handle submitted user inputs since some SALT or encryption method would be revealed in the browser. The intermediate server has access to the protected resource
+       1. You can use an intermediate server to handle submitted user inputs since some SALT or encryption method would be revealed in the browser. The intermediate server has access to the protected resource through an API. The protected resource returns the protected content to the client.
        1. The general approach here is often used in tandem with OAuth 2.0 or part of an OAuth security architecture (minus tokens, etc.).
        1. You can leverage both OAuth 2.0 and your own custom approach, plus two-factor to vastly improve client-access security.
     1. A posssible, though untested approach, mitigates some of the user complexity above by using IP addresses, email addresses, or phone numbers to prevent any required user input. Instead of a password, the fixed unique identifier (not just an *identifier* but a *delivery system*) is used. This is used in magic-passwords, password recovery, and some kinds of two-factor authentication. It can be used to **supplement** other security systems and mitigate access through password hacks. If a password is cracked without two-factor, all information is obtained. 
