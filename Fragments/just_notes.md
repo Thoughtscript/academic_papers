@@ -11,13 +11,13 @@ First Wave - Distributed per the following (in no particular order):
 
 ## Just Dessert
 
-A core criteria on our concept of Justice is the concept of Fairness. 
+A core criterion on our concept of **Justice** is the concept of **Fairness**. 
 
-Most philosophers disagree on what constitutes a Fair system. See: Rawls and Veil of Ignorance. Nozick and Libertarianism.
+Most philosophers disagree on what constitutes a **Fair** system. See: Rawls and *Veil of Ignorance*. Nozick and Libertarianism.
 
-I'd like to also argue that essential to Fairness is the concept of Just Dessert - *that each gets according to what they deserve*.
+I'd like to also argue that essential to **Fairness** is the concept of **Just Dessert** - *that each gets according to what they deserve*.
 
-What people deserve is a baseline mitigated by their actions. The baseline offsets badluck or misfortune.
+What people deserve is a baseline mitigated by their actions. The baseline also offsets badluck or misfortune.
 
 ## Equality
 
