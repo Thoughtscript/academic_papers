@@ -21,11 +21,13 @@ What people deserve is a baseline mitigated by their actions. The baseline also 
 
 ## Equality
 
-Political and economic equality have often borne an element of dogmatism (and have been often conflated with mathematical identity - a different concept altogether).
+Conceptions of political and economic equality have often borne an element of dogmatism (and have been often conflated with mathematical identity - a different concept altogether).
 
-Political equality means that all subjects of a system of laws are bound by exactly the same laws and treated no differently (*de jure*) by them.
+Political equality is taken to mean that all subjects of a particular system of laws are bound by exactly the same laws and treated no differently (*de jure*) by them. Perhaps some elements of common law exist to provide for *de facto* variation.
 
 Political equality has therefore contained two fundamental assumptions:
 
 1. The Floor - some minimum standard gauaranteed for all.
 1. The Ceiling - some maximal standard none may supercede.
+
+The *Egalitarian Impulse* recommends a universal system of political equalities enshrined in **Floors** and **Ceilings**.
