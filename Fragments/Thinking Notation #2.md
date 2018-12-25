@@ -1,6 +1,6 @@
 # Thinking Notation #2
 
-Building off the simple idea earlier... 12.14.18-12.15.18.
+Building off the simple idea earlier... 12.14.18-12.15.18. Updated 12.24.18.
 
 ## Extension: Types or Categories
 
@@ -16,6 +16,15 @@ Where two diametrically opposed items are demonstrated to be:
 1. Are discarded in favor of third item that bears some features of both previous items.
 
 See: Hegel and Logical Modules.
+
+## Derived Rules
+
+10. **Focus** - *Focus on one item* - `> | @ > | @`.
+
+## Extension: No Limit
+
+The `|` symbol does not specify a contiguous item of thought nor an immediately preceeding one. Rather, it can be any preceeding item of thought (symbols are bound across transformation regardless).
+
 
 # Alternative: Picture-Based Programming
 
