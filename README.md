@@ -8,6 +8,8 @@ Hosted or soon to be: [Incomplete Mockup](https://codepen.io/thoughtscript/live/
 
 [Original Ontic.be](https://onticbe.herokuapp.com/) (this is very old and only partly mobile friendly).
 
+Some of these were hosted on [Postlib.com](https://www.postlib.com/).
+
 ## Warning
 
 Most of these works are only partly complete and are being revised. Many are being prepared for future academic publication. Typos may exist. Old papers might contain errors.
@@ -23,7 +25,7 @@ Most of these works are only partly complete and are being revised. Many are bei
 
 1. [Azure Maps](https://docs.microsoft.com/azure/azure-maps/)
 1. [Azure Digital Twins](https://docs.microsoft.com/azure/digital-twins/)
-1. [Azure Digital Time Series Insights](https://docs.microsoft.com/en-us/azure/time-series-insights/)
+1. [Azure Time Series Insights](https://docs.microsoft.com/en-us/azure/time-series-insights/)
 
 ## Technical Writing - X-Team
 
