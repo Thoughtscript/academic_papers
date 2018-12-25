@@ -23,6 +23,7 @@ Most of these works are only partly complete and are being revised. Many are bei
 
 1. [Azure Maps](https://docs.microsoft.com/azure/azure-maps/)
 1. [Azure Digital Twins](https://docs.microsoft.com/azure/digital-twins/)
+1. [Azure Digital Time Series Insights](https://docs.microsoft.com/en-us/azure/time-series-insights/)
 
 ## Technical Writing - X-Team
 
