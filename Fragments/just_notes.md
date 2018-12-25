@@ -13,7 +13,7 @@ First Wave - Distributed per the following (in no particular order):
 
 A core criterion on our concept of **Justice** is the concept of **Fairness**. 
 
-Most philosophers disagree on what constitutes a **Fair** system. See: Rawls and *Veil of Ignorance*. Nozick and Libertarianism.
+Most philosophers disagree on what constitutes a **Fair** system. See: Rawls and the *Veil of Ignorance* argument for the Welfare State. Nozick and Libertarianism.
 
 I'd like to also argue that essential to **Fairness** is the concept of **Just Dessert** - *that each gets according to what they deserve*.
 
@@ -31,3 +31,11 @@ Political equality has therefore contained two fundamental assumptions:
 1. The Ceiling - some maximal standard none may supercede.
 
 The *Egalitarian Impulse* recommends a universal system of political equalities enshrined in **Floors** and **Ceilings**.
+
+## A Hypothetical Alternative
+
+I am not advocating this as a preferred system here.
+
+An alternative arrangement would be one in which all people were gauranteed certain basic rights satisfactory to political freedom, happiness, and security. Such rights would also entail meeting basic material needs (food, etc.). Voting would ostensibly be a right. No rights would be dependent on hereditary or contingent no-control factors like race, gender, etc. 
+
+Upon satisfactory service to the political economy, a citizen would earn three-times the voting clout and other amenities in return and as a reward for their service. At another level, a citizen would earn ten-times the voting clout, and so on.
