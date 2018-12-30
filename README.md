@@ -127,7 +127,7 @@ Most of these works are only partly complete and are being revised. Many are bei
 
 - **Structure Constrained Ontology** <div id="sco"></div> *Philosophy of Language* - Old paper discussing the relationship of Truth, phenomena, and Models. I argue that there is *no symbol grounding problem* - our concepts, language, and linguistic frameworks are implicitly united. There are only relationships between linguistic modalities. The connection between the linguistic items used in cognition and structured sensory representations (or presentations) is discussed.
 
-Our sensory systems are partly organized by higher level concepts defined by models and theories. Models and theories are linked to regimentations of our sensory percepts - thereby linking symbol (in cognition) to persistent patterns produced by our sensory systems.
+   Our sensory systems are partly organized by higher level concepts defined by models and theories. Models and theories are linked to regimentations of our sensory percepts - thereby linking symbol (in cognition) to persistent patterns produced by our sensory systems.
 
 - **Ontological Linguism** <div id="ol"></div> *Philosophy, Ontology, and Metaphysics* - Traditionally, we've taken the view that ontology is essential to language. I present an ontology of linguistic items that flips this conception on its head. 
 
