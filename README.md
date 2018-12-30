@@ -125,7 +125,9 @@ Most of these works are only partly complete and are being revised. Many are bei
 
 - **Between Life and Death: Cryonics and Capital Punishment** <div id="ccp"></div> *Capital Punishment and Ethics* - I argue that using cryogenic freezing (cryonics) is strictly more ethical than killing in cases of capital punishment. If the person to be executed is innocent: (1) They cannot be wrongfully killed, they are merely preserved in a suspended state, (2) They can be unfrozen. If the person to be executed is guilty: (1) That person remains suspended permanently. 
 
-- **Structure Constrained Ontology** <div id="sco"></div> *Philosophy of Language* - Old paper discussing the relationship of Truth, phenomena, and Models. I argue that there is no symbol grounding - our concepts, language, and linguistic frameworks are implicitly united. There are only relationships between linguistic modalities.
+- **Structure Constrained Ontology** <div id="sco"></div> *Philosophy of Language* - Old paper discussing the relationship of Truth, phenomena, and Models. I argue that there is *no symbol grounding problem* - our concepts, language, and linguistic frameworks are implicitly united. There are only relationships between linguistic modalities. The connection between the linguistic items used in cognition and structured sensory representations (or presentations) is discussed.
+
+Our sensory systems are partly organized by higher level concepts defined by models and theories. Models and theories are linked to regimentations of our sensory percepts - thereby linking symbol (in cognition) to persistent patterns produced by our sensory systems.
 
 - **Ontological Linguism** <div id="ol"></div> *Philosophy, Ontology, and Metaphysics* - Traditionally, we've taken the view that ontology is essential to language. I present an ontology of linguistic items that flips this conception on its head. 
 
