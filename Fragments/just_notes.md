@@ -39,3 +39,7 @@ I am not advocating this as a preferred system here.
 An alternative arrangement would be one in which all people were gauranteed certain basic rights satisfactory to political freedom, happiness, and security. Such rights would also entail meeting basic material needs (food, etc.). Voting would ostensibly be a right. No rights would be dependent on hereditary or contingent no-control factors like race, gender, etc. 
 
 Upon satisfactory service to the political economy, a citizen would earn three-times the voting clout and other amenities in return and as a reward for their service. At another level, a citizen would earn ten-times the voting clout, and so on.
+
+Another example (perhaps more palatable):
+
+Every citizen receives some gauranteed baseline. Citizens who produced works of great pro-social benefit (beneficial to all and not just to some - also, *not* beneficial to some at the expense of all others) are rewarded above that baseline with pro-social (karma-esque) credits that may be used to purchase or acquire items, services, goods, etc. beyond the standard allotment.
