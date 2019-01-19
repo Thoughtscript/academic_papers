@@ -35,6 +35,8 @@ Closed loop automated manufacturing - robots mine, robots transport, robots buil
 
 Robots are defined here into *labor units*.  Assuming that their are enough *labor units* to meet all human needs, the system obtains an *economy of abudance*.
 
+Consider when the Fat Fingers Problem is overcome in Nanotech and ITER goes active with 10x fusion energy.
+
 ## Generalizing Approaches
 
 ...
