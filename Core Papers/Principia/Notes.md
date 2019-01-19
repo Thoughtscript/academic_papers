@@ -9,9 +9,11 @@ Definition:
 
 The definitions above slightly vary from the norm.
 
-## Approach One: Total Self-Reliance
+## Approach One: Total Self-Reliance 
 
-A condition under which an economy of abundance is met because each person fully meets their own needs. Not through trade, barter, or exchange.
+**Not economic autarky** - individual scarcity met by individual self-sufficiency
+
+A condition under which an *economy of abundance* is met because each person fully meets their own needs. Not through trade, barter, or exchange.
 
 Example: a future person has their own 3D factory, their own mining robot, their own water well, their own solar power unit, their own hydroponics garden, etc. such that they are largely self-contained (fix any of their own items, feed themselves, etc.).
 
