@@ -14,3 +14,9 @@ Essentially, these states mandate that if you do something on your own time, on 
 1. North Carolina (North Carolina General Statutes, §§ 66-57.1, 66-57.2)
 1. Utah (Utah Code Annotated, §§ 34-39-2, 34-39-3)
 1. Washington (Washington Revised Code Annotated, §§ 49.44.140, 49.44.150)
+
+More on enforcement, infringement, and so on is described above.
+
+## Narratives
+
+I think personal narratives (their life story), genetic code, and other private data points should be inherently one's own intellectual property.
