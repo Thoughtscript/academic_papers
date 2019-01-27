@@ -1,25 +1,28 @@
-# README.md - 8.15.18
+# Ockham.io MVP
 
-For the foreseeable future, updates to the **Ockham.io** open-source proposal will be maintained elsewhere. 
+[![](https://img.shields.io/badge/DARPA-SCORE-blue.svg)](https://www.darpa.mil/program/systematizing-confidence-in-open-research-and-evidence) 
+[![](https://img.shields.io/badge/COS-UVA-orange.svg)](https://cos.io/)
+[![](https://img.shields.io/badge/Ockham.io-0.1-black.svg)](http://www.ockham.io)
+[![](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-Once the final draft and submission is prepared it will be released in its entirety.
+Documents maintained here are supplied for public consumption. Source code, examples, proof of concept, and the like have been moved into private code repositories.
 
-### Deadlines
+# Timeframe
 
-TA3 deadline is Nov. 1st with teams being accepted through Dec. 12th (https://twitter.com/DARPA/status/1027529296854822912).
+1. **First Proposal Draft**: August 17th, 2017  
+1. **Scaffold**: August 5th, 2018  
+1. **Full MVP**: October 1st, 2018  
+1. **Second Proposal Draft**: October 15th, 2018  
+1. **Second Proposal Submission (TA3)**: Nov. 1st, 2018  - Dec. 12th, 2018  
 
-### Other Objectives
+## Revised Timeframe
 
-Regarding funding: We will likely be requesting bare-minimum funding (to maintain repo, minimal logistics support, bug bounty incentives).
+1. **First Proposal Draft**: August 17th, 2017  
+1. **Abstract Submission (TA3)**: January 31st, 2019 - 4:00 PM ET
+1. **Full Proposal (TA3)**: Mach 12, 2019 - 4:00 PM ET
 
-Many DARPA projects can exceed $400,000-$700,000 in funding. We can contribute this project at a fraction of a fraction of that.
+## Explanation of Events
 
-We hope to launch some kind of ICO to incentivize use, ensure the long-term existence and continual improvement of the project, reward bug bounties or other kinds of identified methodological issues. 
-
-We would also, ideally, like to make this a profitable venture for the U.S. tax-payer by returning any initial funding (and a bit more) using any ICO assets to fund a kind of non-profit arrangement *in perpetuity*.
-
-### Open Source
-
-All resources here will be made publicly open-sourced and will gladly be shared with other teams.
-
-We will also be building a full-fledged web application service providing API endpoints useful to researchers and families that will leverage these open-source tools and algorithms.
+1. Submitted first reply to [RFI DARPA-SN-17-57](https://www.fbo.gov/index?s=opportunity&mode=form&id=3f2885886c97d05491ff3ac8f7968912&tab=core&_cview=0) on June 6th, 2018.
+1. Withdrew submission pending revisions to DARPA SCORE schedule and to improve submission requirements on June 20th, 2018.
+1. Submitted TA3 Abstract on January 26th, 2019 per revised timeline.
