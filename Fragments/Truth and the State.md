@@ -20,7 +20,7 @@ But, Truth is essential to Justice, to Religion, to Military planning. It is qui
 
 Nietzsche said, "Everything the State says is a lie, and everything it has it has stolen." 
 
-Of course, every German soldier marched off to the First World War with a copy of his book in knapsack.
+Of course, every German soldier marched off to the First World War with a copy of his book in knapsack. (Of course, horribly altered by his sister and used to justify the expansion of the Second German Reich).
 
 We also forget that administration and management involves handling of information just as much as it involves coordinating currencies or determining plans (all of which involve Truth). 
 
