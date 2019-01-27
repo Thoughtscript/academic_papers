@@ -10,7 +10,7 @@ Some truths contain more information - are more comprehensive truths.
 
 This is a Zero-Order Monadic Logic. 
 
-Aiming for a first Zero-Order Single-Valued Logic.
+Aiming for a first Zero-Order "Single-Valued" Logic (beyond the trivial logic with only T and not T and F)
 
 Expressions with Truth-Values T1, T2 would concatenate into expression of T3+.
 
