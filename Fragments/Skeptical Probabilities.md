@@ -4,12 +4,12 @@ Term keyworded. Some previous literature uses this phrase for other discussions 
 
 Please avoid **overnaming** here.
 
-Calculating the credility of philosophical positions by the number of bullshit moves required to justify it.
+Calculating the credibility of philosophical positions by the number of bullshit moves required to justify it.
 
 1. X draws squiggly marks "///".
 1. X claims that "///" reveals some powerful mathematical insight.
 1. X lacks a clear formal definition for "///".
-1. X cannot link "///" through translation rules to any known math system ()
+1. X cannot link "///" through translation rules to any known math system.
 
 Interrogator asks:
 
@@ -17,7 +17,7 @@ Interrogator asks:
 
 The reply:
 
-1. Math has no justification. Increment bullshit counter by one.
+1. Math has no justification. [Increment bullshit counter by one.]
 
 Interrogator replies:
 
@@ -26,7 +26,7 @@ Interrogator replies:
 
 The reply:
 
-1. Because I created a math system. Increment bullshit counter by one.
+1. Because I created a math system. [Increment bullshit counter by one.]
 
 Interrogator replies:
 
@@ -35,6 +35,8 @@ Interrogator replies:
 Etc.
 
 We can then calculate by indexing or comparing the bullshit counter to other and other more credible theories.
+
+We can track truth not only via how well a positioned is argued (i.e. by what reasons it overcomes or the validity of the syntactic and semantic form it uses). We can also track the argument by the number of bullshit moves are made in (further) justifying those premises.
 
 ## Connection Theory
 
