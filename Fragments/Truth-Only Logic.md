@@ -2,6 +2,7 @@
 
 1. A set of Truth-Values [T1, T2, T3, ..., TN].
 1. T1 < T2 < T3 < ... < TN - Horn ordering.
+1. '<' is an ordering operator but is intended to also be a **proper subset** here (not "less than").
 1. A set of WFF in L. 
 
 There are no falsehoods only truths. 
