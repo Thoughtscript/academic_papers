@@ -30,7 +30,6 @@ Evil exists (since it must so for their to be Good) and persists but diminishes 
 Weaker Argument by Me:
 ```
 (1) In order for something to be good, it requires a contrast, dual opposite, or a complement.
-(2) Therefore, premise (1) in the first argument is false.
 (C) Therefore, (C2) in the first argument does not follow.
 ```
 
