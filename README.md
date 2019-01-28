@@ -95,7 +95,7 @@ Most of these works are only partly complete and are being revised. Many are bei
 **Economics and Finance**
 
 1. [Non-numeric Currency Systems](#nnc)
-1. [Economics of Abudance: Systems of Intrinsically Self-Increasing Value](#aeda)
+1. [Economics of Abundance: Systems of Intrinsically Self-Increasing Value](#aeda)
 
 ## Academic Works - Summaries / Abstracts
 
