@@ -15,3 +15,5 @@ Truth* need not be infinite in cardinality. If Truth* has a cardinality of X the
 2. Where every X of the set in 1. is a subset of the following member save for X* and N is equal to the cardinality - 1.
 
 This is a dimensional logic as described.
+
+Philosophically, there's a huge distinction between this and Fregean or traditional true/false conceptions of logic. On this perspective there are inferior truths and superior truths (in amount, accuracy, detail, etc.). Metaphorically, instead of a line seperating truth and untruth (Frege's truth-bifurcation) or the Laws of Form (which works with the fundamental notion of difference distinction) captured in the negation symbol or overlaid boxes, here we would have a dot and a line (with many shorter lines between).
