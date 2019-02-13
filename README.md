@@ -2,7 +2,9 @@
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-Academic and professional article repo.
+**WARNING**: *Most of the contents and information contained herein is likely out of date or of an earlier draft. Most of the documents here have been migrated.*
+
+Academic and professional article repo. 
 
 Hosted or soon to be: [Incomplete Mockup](https://codepen.io/thoughtscript/live/qoJjNB) (this is not mobile friendly).
 
@@ -19,7 +21,7 @@ Most of these works are only partly complete and are being revised. Many are bei
 1. [Proxibid](https://www.nytimes.com/2016/02/21/jobs/building-a-better-bidding-war.html)
 2. [Kleros.io](https://www.forbes.com/sites/kimjay/2018/04/04/in-the-future-blockchain-will-solve-most-real-world-problems-even-arbitration/)
 3. [D3 Banking](https://www.d3banking.com/newsroom/news_full/200_financial_institutions_offer_lodo_softwares_financial_management_servic)
-4. [DARPA SCORE](https://www.wired.com/story/darpa-bs-detector-science/)
+4. [DARPA SCORE](https://www.wired.com/story/darpa-bs-detector-science/) - see also [Center For Open Science](https://cos.io/blog/looking-back-prereg/)!
 
 ## Technical Writing - Microsoft (Aquent)
 
@@ -121,7 +123,7 @@ Most of these works are only partly complete and are being revised. Many are bei
 
 - **Information Warfare Concerns** <div id="iwc"></div> *National Security, Cybersecurity* - A short paper suggesting a few techniques and remedies to help assuage information security woes. I define various kinds of information asymmetries, good information, and identify challenges faced when trying to protect a good information enviroment.
 
-- **Ockham[dot]io** <div id="score"></div> *DARPA, Psychology, Replication Crises, Philosophy of Science* - A short DARPA RFI outlining a general approach to automatically screening Social Science research using compact algebraic structures to vastly simplify the process of verifying research
+- **Ockham[dot]io** <div id="score"></div> *DARPA, Psychology, Replication Crises, Philosophy of Science* - See: [Center for Open Science](https://cos.io/blog/looking-back-prereg/).
 
 - **Between Life and Death: Cryonics and Capital Punishment** <div id="ccp"></div> *Capital Punishment and Ethics* - I argue that using cryogenic freezing (cryonics) is strictly more ethical than killing in cases of capital punishment. If the person to be executed is innocent: (1) They cannot be wrongfully killed, they are merely preserved in a suspended state, (2) They can be unfrozen. If the person to be executed is guilty: (1) That person remains suspended permanently. 
 
